@@ -55,6 +55,20 @@ A full-stack enhancement for Danske Spil’s internal messaging system used to n
 
 ---
 
+### 6. [BI_Exam](https://github.com/tobiasrossen/BI_Exam)
+**Tech:** Python, Streamlit, Pandas, Scikit-learn, Seaborn, Matplotlib  
+Created as part of my Business Intelligence elective in the datamatiker education. I analyzed data on GDP, social expenditure, unemployment, taxation, and happiness across countries to build predictive models and visualizations.
+
+Features:
+- Data exploration (bar plots, correlations, and summary stats)
+- Predictive model to estimate GDP based on user-inputted social indicators
+- Streamlit app interface
+
+**Note:** Install the following dependencies to run the app:
+```bash
+pip install pandas scikit-learn seaborn tables matplotlib streamlit
+
+
 ## Why include private/proprietary projects?
 
 While I can’t share code for some of my work at Danske Spil, I include them to provide insight into the kind of real-world challenges I’ve solved, and the technologies I’ve worked with in a professional setting. I’m happy to discuss any of these in more detail during a conversation or interview.
