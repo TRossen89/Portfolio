@@ -49,7 +49,6 @@ Features:
 - Data exploration (bar plots, correlations, and summary stats)
 - Predictive model to estimate GDP based on user-inputted social indicators
 
-
 **Note:** Install the following dependencies using "pip install [dependency]" to run the app:  
   
 *streamlit*  
@@ -59,11 +58,11 @@ Features:
 *tables*  
 *matplotlib*
 
-  </td>
-  <td>
+</td>
+<td>
 
 ## Backend API for Project Showcase
-#### Java, JPA
+#### Java, JPA  
 [View Repository](https://github.com/YOUR_USERNAME/tobias-rossen-backend)
 
 A RESTful backend service designed to support a personal homepage showcasing my work. Built using Java and JPA, the API will provide endpoints for project info, tags, pictures, videos and more.
@@ -73,8 +72,9 @@ A RESTful backend service designed to support a personal homepage showcasing my 
 ---
 
 ## Budget App
-#### Python, Kivy
+#### Python, Kivy  
 [View Repository](https://github.com/YOUR_USERNAME/the-budget-app-proto-type)
+
 A personal budgeting tool built with Python and the [Kivy](https://kivy.org/#home) framework. Though still under development, I actively use it to track and plan my spending over defined periods. The app features dynamic income/expense tracking and supports multiple time windows.
 
 **Technologies:** Python, Kivy  
@@ -82,24 +82,17 @@ A personal budgeting tool built with Python and the [Kivy](https://kivy.org/#hom
 
 ---
 
-### 2. Confirmation Board Game – `nanaKonfirmation`
+## Confirmation Board Game – `nanaKonfirmation`
 A playful digital board game I built for my cousin’s daughter’s confirmation (*konfirmation*). Developed using Python and Kivy, the game offers a fun, personalized experience.
 
 > This project is currently private. If you're interested in the code or the concept, feel free to reach out and I’ll be happy to grant access.
 
 **Technologies:** Python, Kivy  
 **Status:** Private – available upon request
-  </td>
-  </tr>
+
+</td>
+</tr>
 </table>
-
-
-
-
-
-
-
-
 
 ## Why include private/proprietary projects?
 
