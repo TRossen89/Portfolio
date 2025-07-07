@@ -36,7 +36,7 @@ A frontend project for Danske Spil, where I developed the user-facing sign-up fl
 <H2>BI_Exam - School project</H2> 
 <H4>Python, Streamlit, Pandas, Scikit-learn, Seaborn, Matplotlib</H4> 
 Link to Repository: https://github.com/tobiasrossen/BI_Exam
-<h5>Grade: 12 (A)</h5>>
+<h5>Grade: 12 (A)</h5>
 Created as part of a Business Intelligence module in my AP Computer Science (Datamatiker) studies. I analyzed data on GDP, social expenditure, unemployment, taxation, and happiness across countries to build models predicting the GDP of countries and to visualize interesting relations between GDP and happiness, social expenditure, unemployment and taxation. 
 <h5>Note: Install the following dependencies using pip install to run the app: </h5>
 <span>streamlit pandas matplotlib seaborn table scikit-learn</span>
