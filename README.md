@@ -29,7 +29,8 @@ I implemented functionality allowing staff to update the destination of already-
  
 A frontend project for Danske Spil, where I developed the user-facing sign-up flow using React. I also made minor updates to the backend API to ensure proper integration, fixing small issues in newly created endpoints.  
 
-> This project is proprietary and hosted internally at Danske Spil. 
+> This project is proprietary and hosted internally at Danske Spil.
+> 
 **Status:** In testing. Scheduled for production deployment in fall 2025
 
 ---
