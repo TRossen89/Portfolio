@@ -57,6 +57,7 @@ Features:
 
 
 **Note:** Install the following dependencies using "pip install [dependency]" to run the app:  
+  
 *streamlit*  
 *pandas*  
 *scikit-learn*  
