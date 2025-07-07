@@ -25,7 +25,7 @@ I implemented functionality allowing staff to update the destination of already-
 **STATUS:** Ready for QA testing.
 
 ---
-
+<br>
 ## Signup Flow – *Danske Spil A/S*  
 #### React, Sitecore *(with minor backend updates in C#, ASP.NET Core/EF Core)*  
  
@@ -37,7 +37,7 @@ backend API to ensure proper integration, fixing small issues in newly created e
 **STATUS:** In testing. Scheduled for production deployment in fall 2025
 
 ---
-
+<br>
 ## BI_Exam - *School project*  
 #### Python *(streamlit, pandas, scikit-learn, seaborn, matplotlib)*
 
@@ -75,7 +75,7 @@ I've made 3 projects in school resembling the structure of this project.
 **STATUS:** In development.
 
 ---
-
+<br>
 ## Budget App  
 
 #### Python, Kivy
@@ -99,7 +99,7 @@ pip install kivy
 **STATUS:** Not finished. Development discontinued. 
 
 ---
-
+<br>
 ## Board Game for a Confirmation (Konfirmation) 
 #### Python, Kivy
 
@@ -116,7 +116,7 @@ I packaged it as a standalone executable using PyInstaller, making it easy to sh
 <br>
 <br>
 <br>
-<br>
+
 
 
 </td>
