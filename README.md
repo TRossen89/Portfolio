@@ -9,7 +9,15 @@ Feel free to browse the ones available publicly. For any private projects, I’m
 
 ## Projects
 
-<span style="color:blue">This text is blue</span>
+<table>
+  <tr>
+    <th>Personal Projects</th>
+    <th>Professional Projects</th>
+  </tr>
+  <tr>
+    <td>
+
+Personal projects
 
 ### 1. Backend API for Project Showcase – [tobias-rossen-backend](https://github.com/YOUR_USERNAME/tobias-rossen-backend)
 A RESTful backend service designed to support a personal homepage showcasing my work. Built using Java and JPA, the API will provide endpoints for project info, tags, and more.
@@ -38,6 +46,8 @@ A playful digital board game I built for my cousin’s daughter’s confirmation
 ---
 
 
+</td>
+    <td>
 
 ---
 
@@ -71,9 +81,11 @@ Features:
 - Streamlit app interface
 
 **Note:** Install the following dependencies to run the app:
-```bash
 pip install pandas scikit-learn seaborn tables matplotlib streamlit
 
+</td>
+  </tr>
+</table>
 
 ## Why include private/proprietary projects?
 
