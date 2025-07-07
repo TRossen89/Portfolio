@@ -101,6 +101,9 @@ A playful digital board game I built for my cousin’s daughter’s confirmation
 **Status:** Private – available upon request
 
 ---
+```bash
+pip install streamlit pandas scikit-learn seaborn tables matplotlib
+```
 
   </td>
     </tr>
