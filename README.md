@@ -11,13 +11,52 @@ Feel free to browse the ones available publicly. For any private projects, I’m
 
 <table>
   <tr>
-    <th>Personal Projects</th>
     <th>Professional Projects and School Projects</th>
+    <th>Personal Projects</th>
   </tr>
   <tr>
     <td>
       
-### 1. Backend API for Project Showcase
+### 4. Signup Flow Frontend – Danske Spil
+As part of a frontend project for Danske Spil, I built the user-facing sign-up flow using React. I also made minor updates to the backend API (written in ASP.NET C#) to improve data handling and user validation.
+
+> This code is proprietary and hosted internally at Danske Spil, so it is not available in this repository.
+
+**Technologies:** React, ASP.NET C# (API)  
+**Status:** Completed – not publicly available
+
+---
+
+### 5. Message Routing System – Danske Spil
+A full-stack enhancement for Danske Spil’s internal messaging system used to notify users about outages and service updates. Previously, messages had to be deleted and recreated to change destinations. I implemented functionality to allow destination updates on existing messages — saving time and reducing friction for the ops team.
+
+> This project is also proprietary and hosted internally at Danske Spil.
+
+**Technologies:** ASP.NET C#, EF Core (backend), Mithril.js (frontend)  
+**Status:** Completed – not publicly available
+
+---
+
+### 6. [BI_Exam](https://github.com/tobiasrossen/BI_Exam)
+**Tech:** Python, Streamlit, Pandas, Scikit-learn, Seaborn, Matplotlib  
+Created as part of my Business Intelligence elective in the datamatiker education. I analyzed data on GDP, social expenditure, unemployment, taxation, and happiness across countries to build predictive models and visualizations.
+
+Features:
+- Data exploration (bar plots, correlations, and summary stats)
+- Predictive model to estimate GDP based on user-inputted social indicators
+- Streamlit app interface
+
+**Note:** Install the following dependencies to run the app:
+pip install pandas scikit-learn seaborn tables matplotlib streamlit
+
+
+</td>
+    <td>
+
+
+
+
+### Backend API for Project Showcase
 Link: [tobias-rossen-backend](https://github.com/YOUR_USERNAME/tobias-rossen-backend)
 A RESTful backend service designed to support a personal homepage showcasing my work. Built using Java and JPA, the API will provide endpoints for project info, tags, and more.
 
@@ -43,46 +82,6 @@ A playful digital board game I built for my cousin’s daughter’s confirmation
 **Status:** Private – available upon request
 
 ---
-
-
-</td>
-    <td>
-
----
-
-### 4. Signup Flow Frontend – Danske Spil
-As part of a frontend project for Danske Spil, I built the user-facing sign-up flow using React. I also made minor updates to the backend API (written in ASP.NET C#) to improve data handling and user validation.
-
-> This code is proprietary and hosted internally at Danske Spil, so it is not available in this repository.
-
-**Technologies:** React, ASP.NET C# (API)  
-**Status:** Completed – not publicly available
-
----
-
-### 5. Message Routing System – Danske Spil
-A full-stack enhancement for Danske Spil’s internal messaging system used to notify users about outages and service updates. Previously, messages had to be deleted and recreated to change destinations. I implemented functionality to allow destination updates on existing messages — saving time and reducing friction for the ops team.
-
-> This project is also proprietary and hosted internally at Danske Spil.
-
-**Technologies:** ASP.NET C#, EF Core (backend), Mithril.js (frontend)  
-**Status:** Completed – not publicly available
-
----
-
-
-### 6. [BI_Exam](https://github.com/tobiasrossen/BI_Exam)
-**Tech:** Python, Streamlit, Pandas, Scikit-learn, Seaborn, Matplotlib  
-Created as part of my Business Intelligence elective in the datamatiker education. I analyzed data on GDP, social expenditure, unemployment, taxation, and happiness across countries to build predictive models and visualizations.
-
-Features:
-- Data exploration (bar plots, correlations, and summary stats)
-- Predictive model to estimate GDP based on user-inputted social indicators
-- Streamlit app interface
-
-**Note:** Install the following dependencies to run the app:
-pip install pandas scikit-learn seaborn tables matplotlib streamlit
-</table>
 
   </td>
     </tr>
