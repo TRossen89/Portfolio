@@ -55,6 +55,8 @@ between GDP and happiness, social expenditure, unemployment and taxation.
 
 </td>
 <td>
+</td>
+<td>
 
 ## Backend API for Project Showcase
 #### Java, JPA  
