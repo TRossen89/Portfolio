@@ -49,7 +49,7 @@ Created as part of a Business Intelligence module in my AP Computer Science (Dat
 
 **Note:** Install the following dependencies using `pip install` to run the app: `streamlit pandas matplotlib seaborn table scikit-learn`
 
-**STATUS:** Finished
+**STATUS:** Finished.
 
 </td>
 <td>
@@ -58,6 +58,7 @@ Created as part of a Business Intelligence module in my AP Computer Science (Dat
 #### Java, JPA  
 [View Repository](https://github.com/TRossen89/tobias-rossen-backend)  
 A RESTful backend service designed to support a personal homepage showcasing my work. The API will provide endpoints for project info, tags, video presentations and more.  
+I've made 3 projects in school resembling the structure of this project.  
 
 **STATUS:** In development.
 
@@ -77,14 +78,35 @@ Although the app is unfinished and not very user-friendly, I still actively use 
 ---
 ---
 
-## Confirmation Board Game  
-#### Python, Kivy  
+## Confirmation Board Game 
+#### Python, Kivy, PyInstaller  
 [Video Presentation](https://youtu.be/_-OWkPrC2eE)
+
 A playful digital board game I built for my cousin’s daughter’s confirmation (*konfirmation*). Developed using Python and Kivy, the game offers a fun, personalized experience.  
 
 > This project is currently private. If you're interested in the code feel free to reach out and I’ll be happy to grant access.
 
-**Status:** Finished. Available upon request
+**Status:** Finished.
+
+## Confirmation Board Game 
+#### Python, Kivy, PyInstaller  
+[Video Presentation](https://youtu.be/_-OWkPrC2eE)
+
+A playful digital board game I built for my cousin’s daughter’s confirmation (*konfirmation*). Developed using Python and Kivy, the game offers a fun, personalized experience.  
+
+> This project is currently private. If you're interested in the code feel free to reach out and I’ll be happy to grant access.
+
+**Status:** Finished.
+
+## Confirmation Board Game 
+#### Python, Kivy, PyInstaller  
+[Video Presentation](https://youtu.be/_-OWkPrC2eE)
+
+A playful digital board game I built for my cousin’s daughter’s confirmation (*konfirmation*). Developed using Python and Kivy, the game offers a fun, personalized experience.  
+
+> This project is currently private. If you're interested in the code feel free to reach out and I’ll be happy to grant access.
+
+**Status:** Finished.
 
 
 
