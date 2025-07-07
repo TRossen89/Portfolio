@@ -16,6 +16,18 @@ Feel free to browse the ones available publicly. For any private projects, I’m
   <tr>
     <td>
       
+
+
+## Improvement to Internal Notification System – *Danske Spil A/S*
+### Full stack: ASP.NET C#, EF Core, Azure SQL Database (backend), Mithril.js (frontend) 
+A full-stack enhancement for Danske Spil’s internal messaging system used to notify users about outages and service updates. I implemented changes enabling previously sent messages to have their destinations updated without needing to delete and recreate the messages — improving operational efficiency and reducing error-prone redundancy. 
+
+> This project is also proprietary and hosted internally at Danske Spil.
+
+**Status:** Ready for test at test department
+
+---
+
 ## Signup Flow – Danske Spil A/S
 ### React, ASP.NET, EF Core, C# 
 
@@ -24,16 +36,6 @@ As part of a frontend project for Danske Spil, I built the user-facing sign-up f
 > This code is proprietary and hosted internally at Danske Spil, so it is not available in this repository.
 
 **Technologies:** React, ASP.NET C# (API)  
-**Status:** Completed – not publicly available
-
----
-
-### 5. Message Routing System – Danske Spil
-A full-stack enhancement for Danske Spil’s internal messaging system used to notify users about outages and service updates. Previously, messages had to be deleted and recreated to change destinations. I implemented functionality to allow destination updates on existing messages — saving time and reducing friction for the ops team.
-
-> This project is also proprietary and hosted internally at Danske Spil.
-
-**Technologies:** ASP.NET C#, EF Core (backend), Mithril.js (frontend)  
 **Status:** Completed – not publicly available
 
 ---
