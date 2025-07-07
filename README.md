@@ -19,7 +19,8 @@ Feel free to browse the ones available publicly. For any private projects, I’m
 
 
 ## Improvement to Internal Notification System – *Danske Spil A/S*
-### Full stack: ASP.NET C#, EF Core, Azure SQL Database (backend), Mithril.js (frontend) 
+### Full stack project
+### Technologies: ASP.NET C#, EF Core, Azure SQL Database (backend), Mithril.js (frontend) 
 A full-stack enhancement for Danske Spil’s internal messaging system used to notify users about outages and service updates. I implemented changes enabling previously sent messages to have their destinations updated without needing to delete and recreate the messages — improving operational efficiency and reducing error-prone redundancy. 
 
 > This project is also proprietary and hosted internally at Danske Spil.
