@@ -70,34 +70,17 @@ A playful digital board game I built for my cousin’s daughter’s confirmation
 
 **Status:** Finished.
 
----
+..  
+..  
+..  
+..  
+..  
+..  
+..  
+..  
+..  
 
-## BI_Exam - *School project*  
-#### Python *(streamlit, pandas, scikit-learn, seaborn, matplotlib)*
-[View Repository](https://github.com/TRossen89/BI_Exam) 
-
-**Grade:** 12 (A)  
-
-Created as part of a Business Intelligence module in my AP Computer Science (Datamatiker) studies. I analyzed data on GDP, social expenditure, unemployment, taxation, and happiness across countries to build models predicting the GDP of countries and to visualize interesting relations between GDP and happiness, social expenditure, unemployment and taxation.  
-
-**Note:** Install the following dependencies using `pip install` to run the app: `streamlit pandas matplotlib seaborn table scikit-learn`
-
-**STATUS:** Finished.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  
   
 </td>
 </tr>
