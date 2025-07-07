@@ -93,9 +93,8 @@ be built using a React frontend and a Java or C# backend.
 
 A playful digital board game I built for my cousin’s daughter’s confirmation (*konfirmation*). I packaged it as a standalone executable using PyInstaller, making it easy to share and run without requiring Python or dependencies.
 
-> This project is currently private. If you're interested in the code, feel free to reach out and I’ll be happy to grant access.
-
-> This project is currently private. If you're interested in the code feel free to reach out and I’ll be happy to grant access.
+> This project is currently private. If you're interested in the code, feel
+> free to reach out and I’ll be happy to grant access.
 
 **STATUS:** Finished.
 
