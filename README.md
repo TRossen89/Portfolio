@@ -24,7 +24,7 @@ I implemented functionality allowing staff to update the destination of already-
 
 ---
 
-## Signup Flow – *Danske Spil A/S*
+<H2>Signup Flow –</H2> <H2 style="italic">*Danske Spil A/S* </H2>
 #### React, Sitecore *(with minor backend updates in ASP.NET Core / C#)*
 
 A frontend project for Danske Spil, where I developed the user-facing sign-up flow using React. I also made minor updates to the backend API (written in ASP.NET Core with C# and EF Core) to ensure proper integration, fixing small issues in newly created endpoints.
