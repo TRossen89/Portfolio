@@ -40,11 +40,6 @@ A frontend project for Danske Spil, where I developed the user-facing sign-up fl
 
 Created as part of a Business Intelligence module in my AP Computer Science (Datamatiker) studies. I analyzed data on GDP, social expenditure, unemployment, taxation, and happiness across countries to build models predicting the GDP of countries and to visualize interesting relations between GDP and happiness, social expenditure, unemployment and taxation. 
 
-Key Features:
-- Streamlit app interface
-- Data exploration (bar plots, correlations, and summary stats)
-- Predictive model to estimate GDP based on user-inputted social indicators
-
 <h5>Note: Install the following dependencies using "pip install [dependency]" to run the app: </h5>
 <span>streamlit</span>
 <span>pandas</span>
