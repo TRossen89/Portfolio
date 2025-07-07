@@ -60,6 +60,8 @@ Features:
 *seaborn*  
 *tables*  
 *matplotlib*
+---
+
   </td>
   <td>
 
