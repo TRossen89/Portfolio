@@ -50,6 +50,9 @@ unemployment, taxation, and happiness across countries to build models predictin
 between GDP and happiness, social expenditure, unemployment and taxation.  
 
 **Note:** Install the following dependencies using `pip install` to run the app: `streamlit pandas matplotlib seaborn table scikit-learn`
+```bash
+pip install streamlit pandas matplotlib seaborn table scikit-learn
+```
 
 **STATUS:** Finished.
 
@@ -85,6 +88,9 @@ I've decided to stop development on this version and instead start a new project
 be built using a React frontend and a Java or C# backend.  
 
 **Note:** Install the following dependency using `pip install` to run the app: `kivy`
+```bash
+pip install kivy
+```
 
 **STATUS:** Not finished. Development discontinued. 
 
