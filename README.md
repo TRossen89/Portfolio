@@ -57,14 +57,17 @@ Features:
 
 
 **Note:** Install the following dependencies using "pip install [dependency]" to run the app:  
-streamlit  
-pandas  
-scikit-learn  
-seaborn  
-tables  
-matplotlib 
+*streamlit*  
+*pandas*  
+*scikit-learn*  
+*seaborn*  
+*tables*  
+*matplotlib*
+  
+```bash
+pip install pandas scikit-learn seaborn matplotlib streamlit
 
-
+```
 
 </td>
     <td>
