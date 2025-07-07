@@ -1,6 +1,6 @@
 ## Tobias Rossen – Developer Portfolio
 
-Welcome to my project portfolio. This repository serves as an overview of a selected portion of the projects I’ve worked on — both personal and professional. Some are still in progress, while others are complete or in use.
+Welcome to my project portfolio. This repository serves as an overview of a selected portion of the projects I’ve worked on — both personal, professional and school related. Some are still in progress, while others are complete or in use.
 
 Feel free to browse the ones available publicly. For any private projects, I’m happy to grant access upon request.
 
@@ -18,9 +18,9 @@ Feel free to browse the ones available publicly. For any private projects, I’m
 A full-stack enhancement to Danske Spil’s internal messaging system used to notify users about outages and service updates.  
 I implemented functionality allowing staff to update the destination of already-sent messages, eliminating the need to delete and recreate them — significantly improving operational efficiency and reducing the risk of human error.  
 
-**Status:** Ready for QA testing.
-
 > This code is proprietary and hosted internally at Danske Spil, so it is not available in this repository.
+
+**Status:** Ready for QA testing.
 
 ---
 
