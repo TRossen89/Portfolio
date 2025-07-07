@@ -22,12 +22,7 @@ I implemented functionality allowing staff to update the destination of already-
 
 **STATUS:** Ready for QA testing.
 
-<br>
-<br>
-<br>
-<br>
 ---
-
 
 ## Signup Flow – *Danske Spil A/S*  
 #### React, Sitecore *(with minor backend updates in C#, ASP.NET Core/EF Core)*  
@@ -94,18 +89,10 @@ A playful digital board game I built for my cousin’s daughter’s confirmation
 
 **STATUS:** Finished.
 
-___
-___
-___
-___
-___
-___
-___
-___
-___
-___
-___
-___
+<br>
+<br>
+<br>
+<br>
 
 </td>
 </tr>
