@@ -107,7 +107,7 @@ The structure is inspired by several backend projects I built during my studies.
 
 A personal budgeting app I developed when I first started programming. The repository contains a main branch with 
 the original design and a development branch 
-where I experimented with various changes. 
+where I experimented with various changes.   
 Although the app is unfinished and not very user-friendly, I still actively use it to track and plan my spending over defined periods. 
 I've decided to stop development on this version and instead start a new project based on a redesigned concept I've worked on. The new version will 
 be built using a React frontend and a Java or C# backend.  
