@@ -50,6 +50,7 @@ unemployment, taxation, and happiness across countries to build models predictin
 between GDP and happiness, social expenditure, unemployment and taxation.  
 
 **Note:** Install the following dependencies using `pip install` to run the app: `streamlit pandas matplotlib seaborn table scikit-learn`
+
 ```bash
 pip install  
 streamlit pandas matplotlib seaborn table scikit-learn
