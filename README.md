@@ -60,9 +60,9 @@ Features:
 *seaborn*  
 *tables*  
 *matplotlib*
----
 
   </td>
+  ---
   <td>
 
 ## Backend API for Project Showcase
