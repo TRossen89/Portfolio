@@ -60,7 +60,8 @@ backend API to ensure proper integration, fixing small issues in newly created e
 
 **Grade:** 12 (A)  
 
-Created as part of a Business Intelligence module in my AP Computer Science (Datamatiker) studies. I analyzed data on GDP, social expenditure, 
+Created as part of a Business Intelligence module in my AP Computer Science (Datamatiker) studies.  
+I analyzed data on GDP, social expenditure, 
 unemployment, taxation, and happiness across countries to build models predicting the GDP of countries and to visualize interesting relations 
 between GDP and happiness, social expenditure, unemployment and taxation.  
 
