@@ -18,7 +18,7 @@ Feel free to browse the ones available publicly. For any private projects, I’m
 A full-stack enhancement to Danske Spil’s internal messaging system used to notify users about outages and service updates.  
 I implemented functionality allowing staff to update the destination of already-sent messages, eliminating the need to delete and recreate them — significantly improving operational efficiency and reducing the risk of human error.  
 
-> This code is proprietary and hosted internally at Danske Spil, so it is not available in this repository.
+> This project is proprietary and hosted internally at Danske Spil, so it is not available in this repository.
 
 **Status:** Ready for QA testing.
 
@@ -31,7 +31,7 @@ I implemented functionality allowing staff to update the destination of already-
  
 A frontend project for Danske Spil, where I developed the user-facing sign-up flow using React. I also made minor updates to the backend API to ensure proper integration, fixing small issues in newly created endpoints.  
 
-> This project is proprietary and hosted internally at Danske Spil.
+> This project is also proprietary and hosted internally at Danske Spil.
 > 
 **Status:** In testing. Scheduled for production deployment in fall 2025
 
@@ -40,7 +40,7 @@ A frontend project for Danske Spil, where I developed the user-facing sign-up fl
 
 
 ## BI_Exam - *School project*  
-#### Python *(Streamlit, Pandas, Scikit-learn, Seaborn, Matplotlib)*
+#### Python *(streamlit, pandas, scikit-learn, seaborn, matplotlib)*
 [View Repository](https://github.com/tobiasrossen/BI_Exam) 
 
 **Grade:** 12 (A)  
@@ -48,8 +48,6 @@ A frontend project for Danske Spil, where I developed the user-facing sign-up fl
 Created as part of a Business Intelligence module in my AP Computer Science (Datamatiker) studies. I analyzed data on GDP, social expenditure, unemployment, taxation, and happiness across countries to build models predicting the GDP of countries and to visualize interesting relations between GDP and happiness, social expenditure, unemployment and taxation.  
 
 **Note:** Install the following dependencies using `pip install` to run the app: `streamlit pandas matplotlib seaborn table scikit-learn`
-
-
 
 </td>
 <td>
@@ -81,6 +79,20 @@ A playful digital board game I built for my cousin’s daughter’s confirmation
 
 **Status:** Finished. Available upon request
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 </td>
 </tr>
 </table>
