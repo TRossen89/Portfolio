@@ -20,7 +20,7 @@ Feel free to browse the ones available publicly. For any private projects, I’m
 A full-stack enhancement to Danske Spil’s internal messaging system used to notify users about outages and service updates.
 I implemented functionality allowing staff to update the destination of already-sent messages, eliminating the need to delete and recreate them — significantly improving operational efficiency and reducing the risk of human error.
 
-> This code is proprietary and hosted internally at Danske Spil, so it is not available in this repository.
+>This code is proprietary and hosted internally at Danske Spil, so it is not available in this repository.
 <h5>Status: Ready for QA testing.</h5>
 
 ---
@@ -28,21 +28,18 @@ I implemented functionality allowing staff to update the destination of already-
 <H2>Signup Flow – Danske Spil A/S</H2>
 <H4> React, Sitecore (with minor backend updates in ASP.NET Core / C#) </H4>
 A frontend project for Danske Spil, where I developed the user-facing sign-up flow using React. I also made minor updates to the backend API (written in ASP.NET Core with C# and EF Core) to ensure proper integration, fixing small issues in newly created endpoints.
-> This project is proprietary and hosted internally at Danske Spil.
+>This project is proprietary and hosted internally at Danske Spil.
 <h5>Status:</h5> In testing. Scheduled for production deployment in fall 2025
 
 ---
 
-<H2>BI_Exam - *School project*</H2> 
+<H2>BI_Exam - School project</H2> 
 <H4>Python, Streamlit, Pandas, Scikit-learn, Seaborn, Matplotlib</H4> 
 Link to Repository: https://github.com/tobiasrossen/BI_Exam
 <h5>Grade: 12 (A)</h5>>
 Created as part of a Business Intelligence module in my AP Computer Science (Datamatiker) studies. I analyzed data on GDP, social expenditure, unemployment, taxation, and happiness across countries to build models predicting the GDP of countries and to visualize interesting relations between GDP and happiness, social expenditure, unemployment and taxation. 
 <h5>Note: Install the following dependencies using "pip install [dependency]" to run the app: </h5>
-streamlit pandas matplotlib</span>
-<span>seaborn</span>
-<span>table</span>
-<span>scikit-learn</span>
+streamlit pandas matplotlib seaborn table scikit-learn
 
 </td>
 <td>
