@@ -56,13 +56,13 @@ Features:
 - Predictive model to estimate GDP based on user-inputted social indicators
 
 
-**Note:** Install the following dependencies using "pip install [dependency]" to run the app: 
-  streamlit
-  pandas 
-  scikit-learn 
-  seaborn 
-  tables 
-  matplotlib 
+**Note:** Install the following dependencies using "pip install [dependency]" to run the app:  
+streamlit  
+pandas  
+scikit-learn  
+seaborn  
+tables  
+matplotlib 
 
 
 
