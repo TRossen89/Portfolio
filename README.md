@@ -19,7 +19,7 @@ I recently completed an internship at Danske Spil A/S, where I worked on several
     <td>
 
 ## Improvement to Internal Notification System – *Danske Spil A/S*  
-#### C#, ASP.NET Core, EF Core, Azure SQL Database (backend), Mithril.js (frontend)  
+#### C#, ASP.NET Core, EF Core, Mithril.js
 
 A full-stack enhancement to Danske Spil’s internal messaging system used to notify users about outages and service updates.  
 I implemented functionality allowing staff to update the destination of already-sent messages, eliminating the need to delete and recreate them 
