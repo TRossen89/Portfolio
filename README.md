@@ -37,8 +37,8 @@ Link to Repository: [https://github.com/tobiasrossen/BI_Exam](https://github.com
 **Grade: 12 (A)**  
 Created as part of a Business Intelligence module in my AP Computer Science (Datamatiker) studies. I analyzed data on GDP, social expenditure, unemployment, taxation, and happiness across countries to build models predicting the GDP of countries and to visualize interesting relations between GDP and happiness, social expenditure, unemployment and taxation.  
 
-**Note:** Install the following dependencies using `pip install` to run the app:  
-`pip install streamlit pandas matplotlib seaborn table scikit-learn`
+**Note: Install the following dependencies using `pip install` to run the app:**  
+`streamlit pandas matplotlib seaborn table scikit-learn`
 
 </td>
 <td>
@@ -73,4 +73,14 @@ A playful digital board game I built for my cousin’s daughter’s confirmation
 </tr>
 </table>
 
-## Why include p
+## Why include private/proprietary projects?
+
+While I can’t share code for some of my work at Danske Spil, I include them to provide insight into the kind of real-world challenges I’ve solved, and the technologies I’ve worked with in a professional setting. I’m happy to discuss any of these in more detail during a conversation or interview.
+
+---
+
+## Contact
+
+You’re welcome to connect with me for more details about any project.  
+Email: acm1110@gotmail.com  
+LinkedIn: [linkedin.com/in/TobiasRossen](https://linkedin.com/in/tobias-rossen-a3620668)
