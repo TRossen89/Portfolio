@@ -14,11 +14,14 @@ Feel free to browse the ones available publicly. For any private projects, I’m
     <td>
 
 <H2>Improvement to Internal Notification System – Danske Spil A/S</H2> 
+
 <H4>C#, ASP.NET Core, EF Core, Azure SQL Database (backend), Mithril.js (frontend)</H4>
+
 A full-stack enhancement to Danske Spil’s internal messaging system used to notify users about outages and service updates.
 I implemented functionality allowing staff to update the destination of already-sent messages, eliminating the need to delete and recreate them — significantly improving operational efficiency and reducing the risk of human error.
+
 > This code is proprietary and hosted internally at Danske Spil, so it is not available in this repository.
-<h5>Status:</h5> Ready for QA testing.
+<h5>Status: Ready for QA testing.</h5>
 
 ---
 
@@ -42,16 +45,17 @@ Key Features:
 - Data exploration (bar plots, correlations, and summary stats)
 - Predictive model to estimate GDP based on user-inputted social indicators
 
-<h5>Note:</h5><span>Install the following dependencies using "pip install [dependency]" to run the app: </span>
-<p>streamlit</p>
-<p>pandas</p>
-<p>matplotlib</p>
-<p>seaborn</p>
-<p>table</p>
-<p>scikit-learn</p>
+<h5>Note: Install the following dependencies using "pip install [dependency]" to run the app: </h5>
+<span>streamlit</span>
+<span>pandas</span>
+<span>matplotlib</span>
+<span>seaborn</span>
+<span>table</span>
+<span>scikit-learn</span>
 
 </td>
 <td>
+  
 <H2>Backend API for Project Showcase</H2>
 <H4>Java, JPA</H4>  
 [View Repository](https://github.com/YOUR_USERNAME/tobias-rossen-backend)
