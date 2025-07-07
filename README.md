@@ -12,7 +12,7 @@ Feel free to browse the ones available publicly. For any private projects, I’m
 <table>
   <tr>
     <th>Personal Projects</th>
-    <th>Professional Projects</th>
+    <th>Professional Projects and School Projects</th>
     <th>School Projects</th>
   </tr>
   <tr>
@@ -72,10 +72,6 @@ A full-stack enhancement for Danske Spil’s internal messaging system used to n
 
 ---
 
-
-
-</td>
-  <td>
 
 ### 6. [BI_Exam](https://github.com/tobiasrossen/BI_Exam)
 **Tech:** Python, Streamlit, Pandas, Scikit-learn, Seaborn, Matplotlib  
