@@ -51,9 +51,9 @@ I've made 3 projects in school resembling the structure of this project.
 ## Budget App  
 #### Python, [Kivy](https://kivy.org/#home) 
 [View Repository](https://github.com/TRossen89/the-budget-app-proto-type)
-[Video Presentation](https://youtu.be/dkUspd2dphs)
+[Video Presentation - long functionality demo](https://youtu.be/dkUspd2dphs)  
 
-A personal budgeting app I developed when I first started programming. The repository contains a main branch with the original design and a development branch where I experimented with various changes.
+A personal budgeting app I developed when I first started programming. The repository contains a main branch with the original design and a development branch where I experimented with various changes. 
 Although the app is unfinished and not very user-friendly, I still actively use it to track and plan my spending over defined periods. I've decided to stop development on this version and instead start a new project based on a redesigned concept I've worked on. The new version will be built using a React frontend and a Java or C# backend.  
 
 **STATUS:** Not finished. Development discontinued. 
@@ -62,7 +62,7 @@ Although the app is unfinished and not very user-friendly, I still actively use 
 
 ## Confirmation Board Game 
 #### Python, Kivy, PyInstaller  
-[Video Presentation](https://youtu.be/_-OWkPrC2eE)
+[Video Presentation - long functionality demo](https://youtu.be/_-OWkPrC2eE)
 
 A playful digital board game I built for my cousin’s daughter’s confirmation (*konfirmation*). Developed using Python and Kivy, the game offers a fun, personalized experience.  
 
@@ -76,9 +76,7 @@ A playful digital board game I built for my cousin’s daughter’s confirmation
 ..  
 ..  
 ..  
-..  
-..  
-..  
+
 
   
   
