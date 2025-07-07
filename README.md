@@ -26,7 +26,7 @@ I implemented functionality allowing staff to update the destination of already-
 
 > This code is proprietary and hosted internally at Danske Spil, so it is not available in this repository.
 
-**Status:** Ready for deployment to the test environment for QA testing.
+**Status:** Ready for QA testing.
 
 ---
 
@@ -37,21 +37,25 @@ A frontend project for Danske Spil, where I developed the user-facing sign-up fl
 
 > This project is proprietary and hosted internally at Danske Spil.
 
-**Status:** Scheduled for production deployment in 2025
+**Status:** In testing. Scheduled for production deployment in fall 2025
 
 ---
 
-### 6. [BI_Exam](https://github.com/tobiasrossen/BI_Exam)
-**Tech:** Python, Streamlit, Pandas, Scikit-learn, Seaborn, Matplotlib  
-Created as part of my Business Intelligence elective in the datamatiker education. I analyzed data on GDP, social expenditure, unemployment, taxation, and happiness across countries to build predictive models and visualizations.
+### BI_Exam - *School project* 
+
+#### Python, Streamlit, Pandas, Scikit-learn, Seaborn, Matplotlib  
+Link to repository: https://github.com/tobiasrossen/BI_Exam
+
+Created as part of my Business Intelligence elective . I analyzed data on GDP, social expenditure, unemployment, taxation, and happiness across countries to build models predicting the GDP of countries and to visualize interesting relations between GDP, happiness, social expenditure, unemployment and taxation.
 
 Features:
+- Streamlit app interface
 - Data exploration (bar plots, correlations, and summary stats)
 - Predictive model to estimate GDP based on user-inputted social indicators
-- Streamlit app interface
 
-**Note:** Install the following dependencies to run the app:
-pip install pandas scikit-learn seaborn tables matplotlib streamlit
+
+**Note:** Install the following dependencies using "pip install [dependency]" to run the app:
+pandas scikit-learn seaborn tables matplotlib streamlit
 
 
 </td>
