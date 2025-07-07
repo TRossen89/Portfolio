@@ -13,14 +13,12 @@ Feel free to browse the ones available publicly. For any private projects, I’m
   <tr>
     <th>Personal Projects</th>
     <th>Professional Projects and School Projects</th>
-    <th>School Projects</th>
   </tr>
   <tr>
     <td>
-
-Personal projects
-
-### 1. Backend API for Project Showcase – [tobias-rossen-backend](https://github.com/YOUR_USERNAME/tobias-rossen-backend)
+      
+### 1. Backend API for Project Showcase
+Link: [tobias-rossen-backend](https://github.com/YOUR_USERNAME/tobias-rossen-backend)
 A RESTful backend service designed to support a personal homepage showcasing my work. Built using Java and JPA, the API will provide endpoints for project info, tags, and more.
 
 **Technologies:** Java, JPA, REST  
