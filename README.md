@@ -6,7 +6,7 @@ Feel free to browse the ones available publicly. For any private projects, I’m
 
 <table>
   <tr>
-    <th></th>
+    <th>Professional Projects and School Projects</th>
     <th>--</th>
     <th>Personal Projects</th>
   </tr>
