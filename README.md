@@ -24,21 +24,20 @@ Feel free to browse the ones available publicly. For any private projects, I’m
 A full-stack enhancement to Danske Spil’s internal messaging system used to notify users about outages and service updates.
 I implemented functionality allowing staff to update the destination of already-sent messages, eliminating the need to delete and recreate them — significantly improving operational efficiency and reducing the risk of human error.
 
-> This project is proprietary and hosted internally at Danske Spil.
+> This code is proprietary and hosted internally at Danske Spil, so it is not available in this repository.
 
-**Status:** Deployed and ready for testing by the QA department
+**Status:** Ready for deployment to the test environment for QA testing.
 
 ---
 
-## Signup Flow – Danske Spil A/S
-### React, ASP.NET, EF Core, C# 
+## Signup Flow – *Danske Spil A/S*
+#### React, Sitecore *(with minor backend updates in ASP.NET Core / C#)*
 
-As part of a frontend project for Danske Spil, I built the user-facing sign-up flow using React. I also made minor updates to the backend API (written in ASP.NET C#) to improve data handling and user validation.
+A frontend project for Danske Spil, where I developed the user-facing sign-up flow using React. I also made minor updates to the backend API (written in ASP.NET Core with C# and EF Core) to ensure proper integration, fixing small issues in newly created endpoints.
 
-> This code is proprietary and hosted internally at Danske Spil, so it is not available in this repository.
+> This project is proprietary and hosted internally at Danske Spil.
 
-**Technologies:** React, ASP.NET C# (API)  
-**Status:** Completed – not publicly available
+**Status:** Scheduled for production deployment in 2025
 
 ---
 
