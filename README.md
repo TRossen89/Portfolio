@@ -65,10 +65,7 @@ Features:
 *tables*  
 *matplotlib*
   
-```bash
-pip install streamlit pandas scikit-learn
-seaborn tables matplotlib
-```
+
 
 </td>
     <td>
