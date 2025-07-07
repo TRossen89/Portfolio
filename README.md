@@ -72,7 +72,7 @@ A personal budgeting tool built with Python and the [Kivy](https://kivy.org/#hom
 
 ## Confirmation Board Game  
 #### Python, Kivy  
-[Video Presentation](
+[Video Presentation](https://youtu.be/_-OWkPrC2eE)
 A playful digital board game I built for my cousin’s daughter’s confirmation (*konfirmation*). Developed using Python and Kivy, the game offers a fun, personalized experience.  
 
 > This project is currently private. If you're interested in the code feel free to reach out and I’ll be happy to grant access.
