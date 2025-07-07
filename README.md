@@ -25,7 +25,7 @@ A full-stack enhancement to Danske Spil’s internal messaging system used to no
 I implemented functionality allowing staff to update the destination of already-sent messages, eliminating the need to delete and recreate them 
 — improving operational efficiency and reducing the risk of human error.  
 
-> This project is proprietary and hosted internally at Danske Spil, so it is not available in this repository.
+> This project is proprietary and hosted internally at Danske Spil, so it is not available in this repository.  
 
 **STATUS:** Ready for QA testing.
 
@@ -42,7 +42,7 @@ I implemented functionality allowing staff to update the destination of already-
 A frontend project for Danske Spil, where I developed the user-facing sign-up flow using React. I also made minor updates to the 
 backend API to ensure proper integration, fixing small issues in newly created endpoints.  
 
-> This project is also proprietary and hosted internally at Danske Spil.
+> This project is also proprietary and hosted internally at Danske Spil.  
 
 **STATUS:** In testing. Scheduled for production deployment in fall 2025
 
@@ -89,7 +89,7 @@ pip install table
 A RESTful backend service designed to support a personal homepage that showcases my work. The API provides endpoints for project information, tags, video presentations, and more.  
 The structure is inspired by several backend projects I built during my studies.
 
-**STATUS:** In development.
+**STATUS:** In development.  
 
 <br>
 
@@ -136,12 +136,9 @@ A playful digital board game I built for my cousin’s daughter’s confirmation
 I packaged it as a standalone executable using PyInstaller, making it easy to share and run without requiring Python or dependencies.
 
 > This project is currently private. If you're interested in the code, feel
-> free to reach out and I’ll be happy to grant access.
+> free to reach out and I’ll be happy to grant access.  
 
 **STATUS:** Finished.
-
-<br>
-<br>
 
 
 </td>
