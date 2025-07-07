@@ -41,7 +41,7 @@ A frontend project for Danske Spil, where I developed the user-facing sign-up fl
 
 ---
 
-### BI_Exam - *School project* 
+## BI_Exam - *School project* 
 
 #### Python, Streamlit, Pandas, Scikit-learn, Seaborn, Matplotlib  
 [View Repository](https://github.com/tobiasrossen/BI_Exam)
@@ -56,13 +56,13 @@ Features:
 - Predictive model to estimate GDP based on user-inputted social indicators
 
 
-**Note:** Install the following dependencies using "pip install [dependency]" to run the app:
-streamlit
-pandas 
-scikit-learn 
-seaborn 
-tables 
-matplotlib 
+**Note:** Install the following dependencies using "pip install [dependency]" to run the app: 
+  streamlit
+  pandas 
+  scikit-learn 
+  seaborn 
+  tables 
+  matplotlib 
 
 
 
