@@ -37,8 +37,8 @@ Link to Repository: [https://github.com/tobiasrossen/BI_Exam](https://github.com
 **Grade: 12 (A)**  
 Created as part of a Business Intelligence module in my AP Computer Science (Datamatiker) studies. I analyzed data on GDP, social expenditure, unemployment, taxation, and happiness across countries to build models predicting the GDP of countries and to visualize interesting relations between GDP and happiness, social expenditure, unemployment and taxation.  
 
-**Note: Install the following dependencies using `pip install` to run the app:**  
-`streamlit pandas matplotlib seaborn table scikit-learn`
+**Note:** Install the following dependencies using `pip install` to run the app:  
+```pip install streamlit pandas matplotlib seaborn table scikit-learn```
 
 </td>
 <td>
