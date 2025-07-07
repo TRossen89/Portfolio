@@ -38,15 +38,15 @@ A frontend project for Danske Spil, where I developed the user-facing sign-up fl
 Link to Repository: https://github.com/tobiasrossen/BI_Exam
 <h5>Grade: 12 (A)</h5>>
 Created as part of a Business Intelligence module in my AP Computer Science (Datamatiker) studies. I analyzed data on GDP, social expenditure, unemployment, taxation, and happiness across countries to build models predicting the GDP of countries and to visualize interesting relations between GDP and happiness, social expenditure, unemployment and taxation. 
-<h5>Note: Install the following dependencies using "pip install [dependency]" to run the app: </h5>
-streamlit pandas matplotlib seaborn table scikit-learn
+<h5>Note: Install the following dependencies using pip install to run the app: </h5>
+<span>streamlit pandas matplotlib seaborn table scikit-learn</span>
 
 </td>
 <td>
   
 <H2>Backend API for Project Showcase</H2>
 <H4>Java, JPA</H4>  
-[View Repository](https://github.com/YOUR_USERNAME/tobias-rossen-backend)
+Link to Repository: https://github.com/YOUR_USERNAME/tobias-rossen-backend
 
 A RESTful backend service designed to support a personal homepage showcasing my work. Built using Java and JPA, the API will provide endpoints for project info, tags, pictures, videos and more.
   
