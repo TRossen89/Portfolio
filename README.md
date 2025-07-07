@@ -1,9 +1,11 @@
 ## Tobias Rossen – Developer Portfolio
 
-Welcome to my project portfolio. This repository serves as an overview of a selected portion of the projects I’ve worked on — both personal, professional and school related. Some are still in progress, while others are complete or in use.
+Welcome to my project portfolio. This repository provides an overview of a selected portion of the projects I’ve worked on — including personal, professional, and school-related work. Some are still in progress, while others are complete or in use.
 
-Feel free to browse the ones available publicly. For any private projects, I’m happy to grant access upon request.  
-While I can’t share code for some of my work at Danske Spil, I include them to provide insight into the kind of real-world challenges I’ve solved, and the technologies I’ve worked with in a professional setting. I’m happy to discuss any of these in more detail during a conversation or interview.
+Feel free to browse the publicly available projects. For any private repositories, I’m happy to grant access upon request.
+
+I recently completed an internship at Danske Spil A/S, where I worked on several real-world software solutions. While I can’t share the code from those projects due to confidentiality, I’ve included descriptions to give insight into the types of challenges I’ve tackled and the technologies I’ve used in a professional setting. I’d be happy to discuss them in more detail during a conversation or interview.
+
 
 <br>
 
