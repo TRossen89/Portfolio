@@ -22,6 +22,10 @@ I implemented functionality allowing staff to update the destination of already-
 
 **STATUS:** Ready for QA testing.
 
+<br>
+<br>
+<br>
+<br>
 ---
 
 
@@ -90,7 +94,18 @@ A playful digital board game I built for my cousin’s daughter’s confirmation
 
 **STATUS:** Finished.
 
-
+___
+___
+___
+___
+___
+___
+___
+___
+___
+___
+___
+___
 
 </td>
 </tr>
