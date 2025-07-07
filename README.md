@@ -62,6 +62,7 @@ A RESTful backend service designed to support a personal homepage showcasing my 
 **STATUS:** In development.
 
 ---
+---
 
 ## Budget App  
 #### Python, [Kivy](https://kivy.org/#home) 
@@ -73,6 +74,7 @@ Although the app is unfinished and not very user-friendly, I still actively use 
 
 **STATUS:** Not finished. Development discontinued. 
 
+---
 ---
 
 ## Confirmation Board Game  
