@@ -83,9 +83,8 @@ pip install pandas table
 #### Java, JPA  
 [View Repository](https://github.com/TRossen89/tobias-rossen-backend)
 
-A RESTful backend service designed to support a personal homepage showcasing my work. The API will provide endpoints for project info, tags, 
-video presentations and more.  
-I've made 3 projects in school resembling the structure of this project.  
+A RESTful backend service designed to support a personal homepage that showcases my work. The API provides endpoints for project information, tags, video presentations, and more.  
+The structure is inspired by several backend projects I built during my studies.
 
 **STATUS:** In development.
 
