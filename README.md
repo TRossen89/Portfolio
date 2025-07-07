@@ -66,7 +66,7 @@ Features:
 *matplotlib*
   
 ```bash
-pip install streamlit pandas scikit-learn  
+pip install streamlit pandas scikit-learn
 seaborn tables matplotlib
 ```
 
