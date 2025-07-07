@@ -36,9 +36,6 @@ backend API to ensure proper integration, fixing small issues in newly created e
 
 **STATUS:** In testing. Scheduled for production deployment in fall 2025
 
-```bash
-straadsf  dfdf dsfdf dsfdf dfdf
-```
 ---
 
 ## BI_Exam - *School project*  
