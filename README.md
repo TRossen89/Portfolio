@@ -65,6 +65,10 @@ A playful digital board game I built for my cousin’s daughter’s confirmation
 
 > This project is currently private. If you're interested in the code or the concept, feel free to reach out and I’ll be happy to grant access.
 > <h5>Status:</h5> Private – available upon request
+> This project is currently private. If you're interested in the code or the concept, feel free to reach out and I’ll be happy to grant access.
+> <h5>Status:</h5> Private – available upon request
+> This project is currently private. If you're interested in the code or the concept, feel free to reach out and I’ll be happy to grant access.
+> <h5>Status:</h5> Private – available upon request
 
 </td>
 </tr>
