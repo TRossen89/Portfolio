@@ -26,6 +26,7 @@ I implemented functionality allowing staff to update the destination of already-
 
 ---
 <br>
+
 ## Signup Flow – *Danske Spil A/S*  
 #### React, Sitecore *(with minor backend updates in C#, ASP.NET Core/EF Core)*  
  
@@ -38,6 +39,7 @@ backend API to ensure proper integration, fixing small issues in newly created e
 
 ---
 <br>
+
 ## BI_Exam - *School project*  
 #### Python *(streamlit, pandas, scikit-learn, seaborn, matplotlib)*
 
@@ -76,8 +78,8 @@ I've made 3 projects in school resembling the structure of this project.
 
 ---
 <br>
-## Budget App  
 
+## Budget App  
 #### Python, Kivy
 
 [View Repository](https://github.com/TRossen89/the-budget-app-proto-type)
@@ -100,6 +102,7 @@ pip install kivy
 
 ---
 <br>
+
 ## Board Game for a Confirmation (Konfirmation) 
 #### Python, Kivy
 
@@ -115,9 +118,6 @@ I packaged it as a standalone executable using PyInstaller, making it easy to sh
 
 <br>
 <br>
-<br>
-
-
 
 </td>
 </tr>
