@@ -22,7 +22,7 @@ I implemented functionality allowing staff to update the destination of already-
 
 **Status:** Ready for QA testing.
 
----
+
 
 ## Signup Flow – *Danske Spil A/S*
 #### React, Sitecore *(with minor backend updates in ASP.NET Core / C#)*
@@ -33,7 +33,7 @@ A frontend project for Danske Spil, where I developed the user-facing sign-up fl
 
 **Status:** In testing. Scheduled for production deployment in fall 2025
 
----
+
 
 ## BI_Exam - *School project* 
 
@@ -69,7 +69,7 @@ A RESTful backend service designed to support a personal homepage showcasing my 
   
 **Status:** In development. 
 
----
+
 
 ## Budget App
 #### Python, Kivy  
@@ -80,7 +80,6 @@ A personal budgeting tool built with Python and the [Kivy](https://kivy.org/#hom
 **Technologies:** Python, Kivy  
 **Status:** Not finished. Project stopped.
 
----
 
 ## Confirmation Board Game – `nanaKonfirmation`
 A playful digital board game I built for my cousin’s daughter’s confirmation (*konfirmation*). Developed using Python and Kivy, the game offers a fun, personalized experience.
