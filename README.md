@@ -64,7 +64,7 @@ I've made 3 projects in school resembling the structure of this project.
 
 ## Budget App  
 
-#### Python, [Kivy](https://kivy.org/#home) 
+#### Python, Kivy
 
 [View Repository](https://github.com/TRossen89/the-budget-app-proto-type)
 
