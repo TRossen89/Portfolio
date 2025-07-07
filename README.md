@@ -1,4 +1,3 @@
-
 # Tobias Rossen – Developer Portfolio
 
 Welcome to my project portfolio. This repository serves as an overview of a selected portion of the projects I’ve worked on — both personal and professional. Some are still in progress, while others are complete or in use.
