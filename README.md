@@ -53,8 +53,8 @@ between GDP and happiness, social expenditure, unemployment and taxation.
 
 ```bash
 pip install streamlit
-pandas matplotlib seaborn
-table scikit-learn
+pip install matplotlib seaborn scikit-learn
+pip install pandas table
 ```
 
 **STATUS:** Finished.
