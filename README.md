@@ -20,7 +20,7 @@ I implemented functionality allowing staff to update the destination of already-
 
 > This project is proprietary and hosted internally at Danske Spil, so it is not available in this repository.
 
-**Status:** Ready for QA testing.
+**STATUS:** Ready for QA testing.
 
 ---
 ---  
@@ -32,8 +32,8 @@ I implemented functionality allowing staff to update the destination of already-
 A frontend project for Danske Spil, where I developed the user-facing sign-up flow using React. I also made minor updates to the backend API to ensure proper integration, fixing small issues in newly created endpoints.  
 
 > This project is also proprietary and hosted internally at Danske Spil.
-> 
-**Status:** In testing. Scheduled for production deployment in fall 2025
+
+**STATUS:** In testing. Scheduled for production deployment in fall 2025
 
 ---
 ---  
@@ -41,7 +41,7 @@ A frontend project for Danske Spil, where I developed the user-facing sign-up fl
 
 ## BI_Exam - *School project*  
 #### Python *(streamlit, pandas, scikit-learn, seaborn, matplotlib)*
-[View Repository](https://github.com/tobiasrossen/BI_Exam) 
+[View Repository](https://github.com/TRossen89/BI_Exam) 
 
 **Grade:** 12 (A)  
 
@@ -49,24 +49,29 @@ Created as part of a Business Intelligence module in my AP Computer Science (Dat
 
 **Note:** Install the following dependencies using `pip install` to run the app: `streamlit pandas matplotlib seaborn table scikit-learn`
 
+**STATUS:** Finished
+
 </td>
 <td>
 
 ## Backend API for Project Showcase  
 #### Java, JPA  
-Link to Repository: [https://github.com/YOUR_USERNAME/tobias-rossen-backend](https://github.com/YOUR_USERNAME/tobias-rossen-backend)  
-A RESTful backend service designed to support a personal homepage showcasing my work. Built using Java and JPA, the API will provide endpoints for project info, tags, pictures, videos and more.  
+[View Repository](https://github.com/TRossen89/tobias-rossen-backend)  
+A RESTful backend service designed to support a personal homepage showcasing my work. The API will provide endpoints for project info, tags, video presentations and more.  
 
-**Status:** In development.
+**STATUS:** In development.
 
 ---
 
 ## Budget App  
-#### Python, Kivy  
-[View Repository](https://github.com/TRossen89/the-budget-app-proto-type)  
-A personal budgeting tool built with Python and the [Kivy](https://kivy.org/#home) framework. Though still under development, I actively use it to track and plan my spending over defined periods. The app features dynamic income/expense tracking and supports multiple time windows.  
+#### Python, [Kivy](https://kivy.org/#home) 
+[View Repository](https://github.com/TRossen89/the-budget-app-proto-type)
+[Video Presentation](https://youtu.be/dkUspd2dphs)
 
-**Status:** Not finished. Project stopped.
+A personal budgeting app I developed when I first started programming. The repository contains a main branch with the original design and a development branch where I experimented with various changes.
+Although the app is unfinished and not very user-friendly, I still actively use it to track and plan my spending over defined periods. I've decided to stop development on this version and instead start a new project based on a redesigned concept I've worked on. The new version will be built using a React frontend and a Java or C# backend.  
+
+**STATUS:** Not finished. Development discontinued. 
 
 ---
 
