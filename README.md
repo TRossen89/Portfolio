@@ -66,12 +66,6 @@ between GDP and happiness, social expenditure, unemployment and taxation.
 
 **Note:** Install the following dependencies using `pip install` to run the app: `streamlit pandas matplotlib seaborn table scikit-learn`
 
-```bash
-pip install streamlit matplotlib
-pip install seaborn scikit-learn
-pip install pandas table
-```
-
 **STATUS:** Finished.
 
 </td>
@@ -110,9 +104,7 @@ I've decided to stop development on this version and instead start a new project
 be built using a React frontend and a Java or C# backend.  
 
 **Note:** Install the following dependency using `pip install` to run the app: `kivy`
-```bash
-pip install kivy
-```
+
 
 **STATUS:** Not finished. Development discontinued. 
 
@@ -136,8 +128,6 @@ I packaged it as a standalone executable using PyInstaller, making it easy to sh
 
 **STATUS:** Finished.
 
-<br>
-<br>
 
 </td>
 </tr>
