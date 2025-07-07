@@ -74,13 +74,14 @@ A RESTful backend service designed to support a personal homepage showcasing my 
 **Status:** In development. 
 
 ---
-## Budget App
 
+## Budget App
+#### Python, Kivy
 [View Repository](https://github.com/YOUR_USERNAME/the-budget-app-proto-type)
 A personal budgeting tool built with Python and the [Kivy](https://kivy.org/#home) framework. Though still under development, I actively use it to track and plan my spending over defined periods. The app features dynamic income/expense tracking and supports multiple time windows.
 
 **Technologies:** Python, Kivy  
-**Status:** In use (prototype)
+**Status:** Not finished. Project stopped.
 
 ---
 
