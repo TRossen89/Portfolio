@@ -65,10 +65,7 @@ Features:
 *tables*  
 *matplotlib*
 
-</td>
-<td>
-
-## Backend API for Project Showcase
+</td><td>## Backend API for Project Showcase
 #### Java, JPA
 [View Repository](https://github.com/YOUR_USERNAME/tobias-rossen-backend)
 
