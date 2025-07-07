@@ -1,7 +1,7 @@
 
 # Tobias Rossen – Developer Portfolio
 
-Welcome to my project portfolio. This repository serves as an overview of the projects I’ve worked on — both personal and professional. Some are still in progress, while others are complete or in use.
+Welcome to my project portfolio. This repository serves as an overview of a selected portion of the projects I’ve worked on — both personal and professional. Some are still in progress, while others are complete or in use.
 
 Feel free to browse the ones available publicly. For any private projects, I’m happy to grant access upon request.
 
@@ -9,7 +9,17 @@ Feel free to browse the ones available publicly. For any private projects, I’m
 
 ## Projects
 
-### 1. Budget App – [the-budget-app-proto-type](https://github.com/YOUR_USERNAME/the-budget-app-proto-type)
+<span style="color:blue">This text is blue</span>
+
+### 1. Backend API for Project Showcase – [tobias-rossen-backend](https://github.com/YOUR_USERNAME/tobias-rossen-backend)
+A RESTful backend service designed to support a personal homepage showcasing my work. Built using Java and JPA, the API will provide endpoints for project info, tags, and more.
+
+**Technologies:** Java, JPA, REST  
+**Status:** Work in progress
+
+---
+
+### 2. Budget App – [the-budget-app-proto-type](https://github.com/YOUR_USERNAME/the-budget-app-proto-type)
 A personal budgeting tool built with Python and the [Kivy](https://kivy.org/#home) framework. Though still under development, I actively use it to track and plan my spending over defined periods. The app features dynamic income/expense tracking and supports multiple time windows.
 
 **Technologies:** Python, Kivy  
@@ -27,11 +37,7 @@ A playful digital board game I built for my cousin’s daughter’s confirmation
 
 ---
 
-### 3. Backend API for Project Showcase – [tobias-rossen-backend](https://github.com/YOUR_USERNAME/tobias-rossen-backend)
-A RESTful backend service designed to support a personal homepage showcasing my work. Built using Java and JPA, the API will provide endpoints for project info, tags, and more.
 
-**Technologies:** Java, JPA, REST  
-**Status:** Work in progress
 
 ---
 
