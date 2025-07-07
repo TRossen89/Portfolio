@@ -61,8 +61,8 @@ Features:
 </td>
 <td>
 
-## Backend API for Project Showcase
-#### Java, JPA  
+Backend API for Project Showcase
+Java, JPA  
 [View Repository](https://github.com/YOUR_USERNAME/tobias-rossen-backend)
 
 A RESTful backend service designed to support a personal homepage showcasing my work. Built using Java and JPA, the API will provide endpoints for project info, tags, pictures, videos and more.
