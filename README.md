@@ -13,6 +13,7 @@ Feel free to browse the ones available publicly. For any private projects, I’m
   <tr>
     <th>Personal Projects</th>
     <th>Professional Projects</th>
+    <th>School Projects</th>
   </tr>
   <tr>
     <td>
@@ -71,6 +72,11 @@ A full-stack enhancement for Danske Spil’s internal messaging system used to n
 
 ---
 
+
+
+</td>
+  <td>
+
 ### 6. [BI_Exam](https://github.com/tobiasrossen/BI_Exam)
 **Tech:** Python, Streamlit, Pandas, Scikit-learn, Seaborn, Matplotlib  
 Created as part of my Business Intelligence elective in the datamatiker education. I analyzed data on GDP, social expenditure, unemployment, taxation, and happiness across countries to build predictive models and visualizations.
@@ -82,9 +88,10 @@ Features:
 
 **Note:** Install the following dependencies to run the app:
 pip install pandas scikit-learn seaborn tables matplotlib streamlit
+</table>
 
-</td>
-  </tr>
+  </td>
+    </tr>
 </table>
 
 ## Why include private/proprietary projects?
