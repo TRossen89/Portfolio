@@ -21,7 +21,7 @@ I implemented functionality allowing staff to update the destination of already-
 
 > This project is proprietary and hosted internally at Danske Spil, so it is not available in this repository.
 
-**STATUS:** Ready for QA testing.                                                                         
+**STATUS:** Ready for QA testing.                    
 
 ---
 
