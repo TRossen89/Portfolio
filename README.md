@@ -7,7 +7,6 @@ Feel free to browse the ones available publicly. For any private projects, I’m
 
 ---
 
-## Projects
 
 <table>
   <tr>
@@ -17,7 +16,9 @@ Feel free to browse the ones available publicly. For any private projects, I’m
   <tr>
     <td>
       
-### 4. Signup Flow Frontend – Danske Spil
+## Signup Flow – Danske Spil A/S
+### React, ASP.NET, EF Core, C# 
+
 As part of a frontend project for Danske Spil, I built the user-facing sign-up flow using React. I also made minor updates to the backend API (written in ASP.NET C#) to improve data handling and user validation.
 
 > This code is proprietary and hosted internally at Danske Spil, so it is not available in this repository.
