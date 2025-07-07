@@ -5,8 +5,6 @@ Welcome to my project portfolio. This repository serves as an overview of a sele
 
 Feel free to browse the ones available publicly. For any private projects, I’m happy to grant access upon request.
 
----
-
 <table>
   <tr>
     <th>Professional Projects and School Projects</th>
@@ -62,7 +60,6 @@ Features:
 *matplotlib*
 
   </td>
-  ---
   <td>
 
 ## Backend API for Project Showcase
