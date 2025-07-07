@@ -62,8 +62,8 @@ Features:
 *tables*  
 *matplotlib*
 
-</td>
-<td>
+  </td>
+  <td>
   
 ## Backend API for Project Showcase
 #### Java, JPA
@@ -94,8 +94,8 @@ A playful digital board game I built for my cousin’s daughter’s confirmation
 ---
 
 
-  </td>
-    </tr>
+   </td>
+  </tr>
 </table>
 
 ## Why include private/proprietary projects?
