@@ -14,32 +14,38 @@ Feel free to browse the ones available publicly. For any private projects, I’m
 
 ## Improvement to Internal Notification System – Danske Spil A/S  
 #### C#, ASP.NET Core, EF Core, Azure SQL Database (backend), Mithril.js (frontend)  
-> This code is proprietary and hosted internally at Danske Spil, so it is not available in this repository.
 
 A full-stack enhancement to Danske Spil’s internal messaging system used to notify users about outages and service updates.  
 I implemented functionality allowing staff to update the destination of already-sent messages, eliminating the need to delete and recreate them — significantly improving operational efficiency and reducing the risk of human error.  
 
 **Status:** Ready for QA testing.
 
+> This code is proprietary and hosted internally at Danske Spil, so it is not available in this repository.
+
 ---
 
 ## Signup Flow – Danske Spil A/S  
 #### React, Sitecore *(with minor backend updates in C#, ASP.NET Core/EF Core)*  
->This project is proprietary and hosted internally at Danske Spil.  
+ 
 A frontend project for Danske Spil, where I developed the user-facing sign-up flow using React. I also made minor updates to the backend API to ensure proper integration, fixing small issues in newly created endpoints.  
+
 **Status:** In testing. Scheduled for production deployment in fall 2025
+
+>This project is proprietary and hosted internally at Danske Spil. 
 
 ---
 
 ## BI_Exam - School project  
-#### Python, Streamlit, Pandas, Scikit-learn, Seaborn, Matplotlib  
-Link to Repository: [https://github.com/tobiasrossen/BI_Exam](https://github.com/tobiasrossen/BI_Exam)  
-**Grade: 12 (A)**  
+#### Python, Streamlit, Pandas, Scikit-learn, Seaborn, Matplotlib   
+**Grade:** 12 (A)  
 Created as part of a Business Intelligence module in my AP Computer Science (Datamatiker) studies. I analyzed data on GDP, social expenditure, unemployment, taxation, and happiness across countries to build models predicting the GDP of countries and to visualize interesting relations between GDP and happiness, social expenditure, unemployment and taxation.  
 
 **Note:** Install the following dependencies using `pip install` to run the app:  
-```pip install streamlit pandas matplotlib seaborn table scikit-learn```
+```bash
+pip install streamlit pandas matplotlib seaborn table scikit-learn
+```
 
+[View Repository](https://github.com/tobiasrossen/BI_Exam) 
 </td>
 <td>
 
