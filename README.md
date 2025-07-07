@@ -7,8 +7,14 @@ Feel free to browse the ones available publicly. For any private projects, I’m
 
 ---
 
-
-## Improvement to Internal Notification System – *Danske Spil A/S*
+<table>
+  <tr>
+    <th>Professional Projects and School Projects</th>
+    <th>Personal Projects</th>
+  </tr>
+  <tr>
+    <td>
+      ## Improvement to Internal Notification System – *Danske Spil A/S*
 
 #### ASP.NET C#, EF Core, Azure SQL Database (backend), Mithril.js (frontend) 
 A full-stack enhancement to Danske Spil’s internal messaging system used to notify users about outages and service updates.
@@ -54,11 +60,9 @@ Features:
 *seaborn*  
 *tables*  
 *matplotlib*
-
-
-
-
-## Backend API for Project Showcase
+  </td>
+  <td>
+    ## Backend API for Project Showcase
 #### Java, JPA
 [View Repository](https://github.com/YOUR_USERNAME/tobias-rossen-backend)
 
@@ -84,6 +88,16 @@ A playful digital board game I built for my cousin’s daughter’s confirmation
 
 **Technologies:** Python, Kivy  
 **Status:** Private – available upon request
+  </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
 
 
 ## Why include private/proprietary projects?
