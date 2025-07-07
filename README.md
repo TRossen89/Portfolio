@@ -64,21 +64,17 @@ Features:
 *seaborn*  
 *tables*  
 *matplotlib*
-  
-
 
 </td>
-    <td>
+<td>
 
+## Backend API for Project Showcase
+#### Java, JPA
+[View Repository](https://github.com/YOUR_USERNAME/tobias-rossen-backend)
 
-
-
-### Backend API for Project Showcase
-Link: [tobias-rossen-backend](https://github.com/YOUR_USERNAME/tobias-rossen-backend)
-A RESTful backend service designed to support a personal homepage showcasing my work. Built using Java and JPA, the API will provide endpoints for project info, tags, and more.
-
-**Technologies:** Java, JPA, REST  
-**Status:** Work in progress
+A RESTful backend service designed to support a personal homepage showcasing my work. Built using Java and JPA, the API will provide endpoints for project info, tags, pictures, videos and more.
+  
+**Status:** In development. 
 
 ---
 
