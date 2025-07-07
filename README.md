@@ -8,13 +8,6 @@ Feel free to browse the ones available publicly. For any private projects, I’m
 ---
 
 
-<table>
-  <tr>
-    <th>Professional Projects and School Projects</th>
-    <th>Personal Projects</th>
-  </tr>
-  <tr>
-    <td>
 ## Improvement to Internal Notification System – *Danske Spil A/S*
 
 #### ASP.NET C#, EF Core, Azure SQL Database (backend), Mithril.js (frontend) 
@@ -62,8 +55,8 @@ Features:
 *tables*  
 *matplotlib*
 
-  </td>
-  <td>
+
+
 
 ## Backend API for Project Showcase
 #### Java, JPA
@@ -92,9 +85,6 @@ A playful digital board game I built for my cousin’s daughter’s confirmation
 **Technologies:** Python, Kivy  
 **Status:** Private – available upon request
 
-   </td>
-  </tr>
-</table>
 
 ## Why include private/proprietary projects?
 
