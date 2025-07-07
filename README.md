@@ -70,8 +70,7 @@ A playful digital board game I built for my cousin’s daughter’s confirmation
 
 **Status:** Finished.
 
-..  
-  
+
 </td>
 </tr>
 </table>
