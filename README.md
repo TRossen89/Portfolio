@@ -44,9 +44,11 @@ A frontend project for Danske Spil, where I developed the user-facing sign-up fl
 ### BI_Exam - *School project* 
 
 #### Python, Streamlit, Pandas, Scikit-learn, Seaborn, Matplotlib  
-Link to repository: https://github.com/tobiasrossen/BI_Exam
+[View Repository](https://github.com/tobiasrossen/BI_Exam)
 
-Created as part of my Business Intelligence elective . I analyzed data on GDP, social expenditure, unemployment, taxation, and happiness across countries to build models predicting the GDP of countries and to visualize interesting relations between GDP, happiness, social expenditure, unemployment and taxation.
+**Grade:** A (12)
+
+Created as part of a Business Intelligence module in my AP Computer Science (Datamatiker) studies. I analyzed data on GDP, social expenditure, unemployment, taxation, and happiness across countries to build models predicting the GDP of countries and to visualize interesting relations between GDP, happiness, social expenditure, unemployment and taxation. 
 
 Features:
 - Streamlit app interface
@@ -55,7 +57,13 @@ Features:
 
 
 **Note:** Install the following dependencies using "pip install [dependency]" to run the app:
-pandas scikit-learn seaborn tables matplotlib streamlit
+streamlit
+pandas 
+scikit-learn 
+seaborn 
+tables 
+matplotlib 
+
 
 
 </td>
