@@ -23,9 +23,8 @@ I implemented functionality allowing staff to update the destination of already-
 **Status:** Ready for QA testing.
 
 ---
----
+---  
 
-  
 ## Signup Flow – *Danske Spil A/S*  
 #### React, Sitecore *(with minor backend updates in C#, ASP.NET Core/EF Core)*  
  
@@ -36,9 +35,8 @@ A frontend project for Danske Spil, where I developed the user-facing sign-up fl
 **Status:** In testing. Scheduled for production deployment in fall 2025
 
 ---
----
+---  
 
-  
 ## BI_Exam - *School project*  
 #### Python *(Streamlit, Pandas, Scikit-learn, Seaborn, Matplotlib)*
 [View Repository](https://github.com/tobiasrossen/BI_Exam) 
