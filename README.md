@@ -55,7 +55,7 @@ between GDP and happiness, social expenditure, unemployment and taxation.
 </td>
 <td>
 
-## Backend API for Project Showcase - *TEST* 
+## Backend API for Project Showcase
 #### Java, JPA  
 [View Repository](https://github.com/TRossen89/tobias-rossen-backend)  
 A RESTful backend service designed to support a personal homepage showcasing my work. The API will provide endpoints for project info, tags, 
@@ -110,9 +110,7 @@ A playful digital board game I built for my cousin’s daughter’s confirmation
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+
 
 </td>
 </tr>
