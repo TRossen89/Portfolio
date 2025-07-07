@@ -27,7 +27,7 @@ I implemented functionality allowing staff to update the destination of already-
 
 > This project is proprietary and hosted internally at Danske Spil, so it is not available in this repository.  
 
-**STATUS:** Ready for QA testing.
+  **STATUS:** Ready for QA testing.
 
 <br>
 
@@ -44,7 +44,7 @@ backend API to ensure proper integration, fixing small issues in newly created e
 
 > This project is also proprietary and hosted internally at Danske Spil.  
 
-**STATUS:** In testing. Scheduled for production deployment in fall 2025
+  **STATUS:** In testing. Scheduled for production deployment in fall 2025
 
 <br>
 
@@ -75,7 +75,13 @@ pip install pandas
 pip install table
 ```
 
-**STATUS:** Finished.
+  **STATUS:** Finished.
+
+<br>
+<br>
+<br>
+<br>
+<br>
 
 </td>
 <td>
@@ -89,7 +95,7 @@ pip install table
 A RESTful backend service designed to support a personal homepage that showcases my work. The API provides endpoints for project information, tags, video presentations, and more.  
 The structure is inspired by several backend projects I built during my studies.
 
-**STATUS:** In development.  
+  **STATUS:** In development.  
 
 <br>
 
@@ -118,7 +124,7 @@ pip install kivy
 ```
 
 
-**STATUS:** Not finished. Development discontinued. 
+  **STATUS:** Not finished. Development discontinued. 
 
 <br>
 
@@ -138,7 +144,7 @@ I packaged it as a standalone executable using PyInstaller, making it easy to sh
 > This project is currently private. If you're interested in the code, feel
 > free to reach out and I’ll be happy to grant access.  
 
-**STATUS:** Finished.
+  **STATUS:** Finished.
 
 
 </td>
