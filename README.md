@@ -80,19 +80,5 @@ A playful digital board game I built for my cousin’s daughter’s confirmation
 </tr>
 </table>
 
-## Why include private/proprietary projects?
-
-While I can’t share code for some of my work at Danske Spil, I include them to provide insight into the kind of real-world challenges I’ve solved, and the technologies I’ve worked with in a professional setting. I’m happy to discuss any of these in more detail during a conversation or interview.
-
----
-
-## Contact
-
-You’re welcome to connect with me for more details about any project.  
-Email: acm1110@gotmail.com 
-LinkedIn: [linkedin.com/in/TobiasRossen](https://linkedin.com/in/tobias-rossen-a3620668)
-
----
-
 
 
