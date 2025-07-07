@@ -17,29 +17,22 @@ Feel free to browse the ones available publicly. For any private projects, I’m
 <H4>C#, ASP.NET Core, EF Core, Azure SQL Database (backend), Mithril.js (frontend) </H4>
 A full-stack enhancement to Danske Spil’s internal messaging system used to notify users about outages and service updates.
 I implemented functionality allowing staff to update the destination of already-sent messages, eliminating the need to delete and recreate them — significantly improving operational efficiency and reducing the risk of human error.
-
 > This code is proprietary and hosted internally at Danske Spil, so it is not available in this repository.
-
 <h5>Status: Ready for QA testing.</h5>
 
 ---
 
 ## Signup Flow – *Danske Spil A/S*
 #### React, Sitecore *(with minor backend updates in ASP.NET Core / C#)*
-
 A frontend project for Danske Spil, where I developed the user-facing sign-up flow using React. I also made minor updates to the backend API (written in ASP.NET Core with C# and EF Core) to ensure proper integration, fixing small issues in newly created endpoints.
-
 > This project is proprietary and hosted internally at Danske Spil.
-
 **Status:** In testing. Scheduled for production deployment in fall 2025
 
 ---
 
 ## BI_Exam - *School project* 
-
 #### Python, Streamlit, Pandas, Scikit-learn, Seaborn, Matplotlib  
 [View Repository](https://github.com/tobiasrossen/BI_Exam)
-
 **Grade:** 12 (A)
 
 Created as part of a Business Intelligence module in my AP Computer Science (Datamatiker) studies. I analyzed data on GDP, social expenditure, unemployment, taxation, and happiness across countries to build models predicting the GDP of countries and to visualize interesting relations between GDP and happiness, social expenditure, unemployment and taxation. 
@@ -47,8 +40,7 @@ Created as part of a Business Intelligence module in my AP Computer Science (Dat
 
 </td>
 <td>
-
-Backend API for Project Showcase
+## Backend API for Project Showcase
 Java, JPA  
 [View Repository](https://github.com/YOUR_USERNAME/tobias-rossen-backend)
 
@@ -79,6 +71,20 @@ A playful digital board game I built for my cousin’s daughter’s confirmation
 </td>
 </tr>
 </table>
+
+## Why include private/proprietary projects?
+
+While I can’t share code for some of my work at Danske Spil, I include them to provide insight into the kind of real-world challenges I’ve solved, and the technologies I’ve worked with in a professional setting. I’m happy to discuss any of these in more detail during a conversation or interview.
+
+---
+
+## Contact
+
+You’re welcome to connect with me for more details about any project.  
+Email: acm1110@gotmail.com 
+LinkedIn: [linkedin.com/in/TobiasRossen](https://linkedin.com/in/tobias-rossen-a3620668)
+
+---
 
 
 
