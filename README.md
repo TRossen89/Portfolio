@@ -14,20 +14,20 @@ Feel free to browse the ones available publicly. For any private projects, I’m
 
 ## Improvement to Internal Notification System – Danske Spil A/S  
 #### C#, ASP.NET Core, EF Core, Azure SQL Database (backend), Mithril.js (frontend)  
-_Note: This code is proprietary and hosted internally at Danske Spil, so it is not available in this repository._  
+> This code is proprietary and hosted internally at Danske Spil, so it is not available in this repository.
+
 A full-stack enhancement to Danske Spil’s internal messaging system used to notify users about outages and service updates.  
 I implemented functionality allowing staff to update the destination of already-sent messages, eliminating the need to delete and recreate them — significantly improving operational efficiency and reducing the risk of human error.  
 
-**Status: Ready for QA testing.**
+**Status:** Ready for QA testing.
 
 ---
 
 ## Signup Flow – Danske Spil A/S  
-#### React, Sitecore (with minor backend updates in ASP.NET Core / C#)  
-A frontend project for Danske Spil, where I developed the user-facing sign-up flow using React. I also made minor updates to the backend API (written in ASP.NET Core with C# and EF Core) to ensure proper integration, fixing small issues in newly created endpoints.  
-This project is proprietary and hosted internally at Danske Spil.  
-
-**Status: In testing. Scheduled for production deployment in fall 2025**
+#### React, Sitecore *(with minor backend updates in C#, ASP.NET Core/EF Core)*  
+>This project is proprietary and hosted internally at Danske Spil.  
+A frontend project for Danske Spil, where I developed the user-facing sign-up flow using React. I also made minor updates to the backend API to ensure proper integration, fixing small issues in newly created endpoints.  
+**Status:** In testing. Scheduled for production deployment in fall 2025
 
 ---
 
@@ -63,11 +63,12 @@ A personal budgeting tool built with Python and the [Kivy](https://kivy.org/#hom
 
 ## Confirmation Board Game  
 #### Python, Kivy  
-[View Repository](https://github.com/TRossen89/nanaKonfirmation)  
+[Video Presentation](
 A playful digital board game I built for my cousin’s daughter’s confirmation (*konfirmation*). Developed using Python and Kivy, the game offers a fun, personalized experience.  
 
-> This project is currently private. If you're interested in the code or the concept, feel free to reach out and I’ll be happy to grant access.  
-**Status:** Private – available upon request
+> This project is currently private. If you're interested in the code feel free to reach out and I’ll be happy to grant access.
+
+**Status:** Finished. Available upon request
 
 </td>
 </tr>
