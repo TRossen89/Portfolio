@@ -24,7 +24,7 @@ I implemented functionality allowing staff to update the destination of already-
 
 ---
 ---
-
+  
 ## Signup Flow – *Danske Spil A/S*  
 #### React, Sitecore *(with minor backend updates in C#, ASP.NET Core/EF Core)*  
  
@@ -36,7 +36,7 @@ A frontend project for Danske Spil, where I developed the user-facing sign-up fl
 
 ---
 ---
-
+  
 ## BI_Exam - *School project*  
 #### Python *(Streamlit, Pandas, Scikit-learn, Seaborn, Matplotlib)*
 [View Repository](https://github.com/tobiasrossen/BI_Exam) 
@@ -45,7 +45,7 @@ A frontend project for Danske Spil, where I developed the user-facing sign-up fl
 
 Created as part of a Business Intelligence module in my AP Computer Science (Datamatiker) studies. I analyzed data on GDP, social expenditure, unemployment, taxation, and happiness across countries to build models predicting the GDP of countries and to visualize interesting relations between GDP and happiness, social expenditure, unemployment and taxation.  
 
-**Note:** Install the following dependencies using `pip install [dependency]` to run the app: streamlit pandas matplotlib seaborn table scikit-learn
+**Note:** Install the following dependencies using `pip install [dependency]` to run the app: `streamlit pandas matplotlib seaborn table scikit-learn`
 
 
 
