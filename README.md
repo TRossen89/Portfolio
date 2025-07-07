@@ -23,7 +23,6 @@ I implemented functionality allowing staff to update the destination of already-
 **STATUS:** Ready for QA testing.
 
 ---
----  
 
 
 ## Signup Flow – *Danske Spil A/S*  
@@ -35,21 +34,6 @@ A frontend project for Danske Spil, where I developed the user-facing sign-up fl
 
 **STATUS:** In testing. Scheduled for production deployment in fall 2025
 
----
----  
-
-
-## BI_Exam - *School project*  
-#### Python *(streamlit, pandas, scikit-learn, seaborn, matplotlib)*
-[View Repository](https://github.com/TRossen89/BI_Exam) 
-
-**Grade:** 12 (A)  
-
-Created as part of a Business Intelligence module in my AP Computer Science (Datamatiker) studies. I analyzed data on GDP, social expenditure, unemployment, taxation, and happiness across countries to build models predicting the GDP of countries and to visualize interesting relations between GDP and happiness, social expenditure, unemployment and taxation.  
-
-**Note:** Install the following dependencies using `pip install` to run the app: `streamlit pandas matplotlib seaborn table scikit-learn`
-
-**STATUS:** Finished.
 
 </td>
 <td>
@@ -63,7 +47,6 @@ I've made 3 projects in school resembling the structure of this project.
 **STATUS:** In development.
 
 ---
----
 
 ## Budget App  
 #### Python, [Kivy](https://kivy.org/#home) 
@@ -76,37 +59,31 @@ Although the app is unfinished and not very user-friendly, I still actively use 
 **STATUS:** Not finished. Development discontinued. 
 
 ---
+
+## Confirmation Board Game 
+#### Python, Kivy, PyInstaller  
+[Video Presentation](https://youtu.be/_-OWkPrC2eE)
+
+A playful digital board game I built for my cousin’s daughter’s confirmation (*konfirmation*). Developed using Python and Kivy, the game offers a fun, personalized experience.  
+
+> This project is currently private. If you're interested in the code feel free to reach out and I’ll be happy to grant access.
+
+**Status:** Finished.
+
 ---
 
-## Confirmation Board Game 
-#### Python, Kivy, PyInstaller  
-[Video Presentation](https://youtu.be/_-OWkPrC2eE)
+## BI_Exam - *School project*  
+#### Python *(streamlit, pandas, scikit-learn, seaborn, matplotlib)*
+[View Repository](https://github.com/TRossen89/BI_Exam) 
 
-A playful digital board game I built for my cousin’s daughter’s confirmation (*konfirmation*). Developed using Python and Kivy, the game offers a fun, personalized experience.  
+**Grade:** 12 (A)  
 
-> This project is currently private. If you're interested in the code feel free to reach out and I’ll be happy to grant access.
+Created as part of a Business Intelligence module in my AP Computer Science (Datamatiker) studies. I analyzed data on GDP, social expenditure, unemployment, taxation, and happiness across countries to build models predicting the GDP of countries and to visualize interesting relations between GDP and happiness, social expenditure, unemployment and taxation.  
 
-**Status:** Finished.
+**Note:** Install the following dependencies using `pip install` to run the app: `streamlit pandas matplotlib seaborn table scikit-learn`
 
-## Confirmation Board Game 
-#### Python, Kivy, PyInstaller  
-[Video Presentation](https://youtu.be/_-OWkPrC2eE)
+**STATUS:** Finished.
 
-A playful digital board game I built for my cousin’s daughter’s confirmation (*konfirmation*). Developed using Python and Kivy, the game offers a fun, personalized experience.  
-
-> This project is currently private. If you're interested in the code feel free to reach out and I’ll be happy to grant access.
-
-**Status:** Finished.
-
-## Confirmation Board Game 
-#### Python, Kivy, PyInstaller  
-[Video Presentation](https://youtu.be/_-OWkPrC2eE)
-
-A playful digital board game I built for my cousin’s daughter’s confirmation (*konfirmation*). Developed using Python and Kivy, the game offers a fun, personalized experience.  
-
-> This project is currently private. If you're interested in the code feel free to reach out and I’ll be happy to grant access.
-
-**Status:** Finished.
 
 
 
