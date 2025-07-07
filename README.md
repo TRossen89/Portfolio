@@ -2,7 +2,8 @@
 
 Welcome to my project portfolio. This repository serves as an overview of a selected portion of the projects I’ve worked on — both personal, professional and school related. Some are still in progress, while others are complete or in use.
 
-Feel free to browse the ones available publicly. For any private projects, I’m happy to grant access upon request.
+Feel free to browse the ones available publicly. For any private projects, I’m happy to grant access upon request.  
+While I can’t share code for some of my work at Danske Spil, I include them to provide insight into the kind of real-world challenges I’ve solved, and the technologies I’ve worked with in a professional setting. I’m happy to discuss any of these in more detail during a conversation or interview.
 
 <br>
 
@@ -141,11 +142,8 @@ I packaged it as a standalone executable using PyInstaller, making it easy to sh
 </tr>
 </table>
 
-## Why include private/proprietary projects?
+<br>
 
-While I can’t share code for some of my work at Danske Spil, I include them to provide insight into the kind of real-world challenges I’ve solved, and the technologies I’ve worked with in a professional setting. I’m happy to discuss any of these in more detail during a conversation or interview.
-
----
 
 ## Contact
 
