@@ -93,6 +93,11 @@ A playful digital board game I built for my cousin’s daughter’s confirmation
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 </td>
 </tr>
@@ -108,4 +113,4 @@ While I can’t share code for some of my work at Danske Spil, I include them to
 
 You’re welcome to connect with me for more details about any project.  
 Email: acm1110@gotmail.com  
-LinkedIn: [linkedin.com/in/TobiasRossen](https://linkedin.com/in/tobias-rossen-a3620668)
+LinkedIn: [Tobias Rossen](https://linkedin.com/in/tobias-rossen-a3620668)
