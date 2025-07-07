@@ -25,6 +25,7 @@ I implemented functionality allowing staff to update the destination of already-
 ---
 ---  
 
+
 ## Signup Flow – *Danske Spil A/S*  
 #### React, Sitecore *(with minor backend updates in C#, ASP.NET Core/EF Core)*  
  
@@ -36,6 +37,7 @@ A frontend project for Danske Spil, where I developed the user-facing sign-up fl
 
 ---
 ---  
+
 
 ## BI_Exam - *School project*  
 #### Python *(Streamlit, Pandas, Scikit-learn, Seaborn, Matplotlib)*
