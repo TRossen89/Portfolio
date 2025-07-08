@@ -52,8 +52,6 @@ backend API to ensure proper integration, fixing small issues in newly created e
 ---
 ---
 
-<br>
-
 ## BI_Exam - *School project*  
 #### Python *(streamlit, pandas, scikit-learn, seaborn, matplotlib)*
 
@@ -76,10 +74,11 @@ pip install pandas
 pip install table
 ```
 
-
-
   **STATUS:** Finished.
 
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
@@ -105,8 +104,6 @@ The structure is inspired by several backend projects I built during my studies.
 ---
 ---
 
-<br>
-
 ## Budget App  
 #### Python, Kivy
 
@@ -131,8 +128,6 @@ be built using a React frontend and a Java or C# backend.
 
 ---
 ---
-
-<br>
 
 ## Board Game for a Confirmation (Konfirmation) 
 #### Python, Kivy
