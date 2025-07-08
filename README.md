@@ -131,7 +131,7 @@ pip install kivy
 ## Board Game for a Confirmation (Konfirmation) 
 #### Python, Kivy
 
-[Video Presentation](https://youtu.be/NS8SA8iop-M) (functionality demo) 
+[Video Presentation](https://youtu.be/NS8SA8iop-M) (01.51) - [skip intro](https://youtu.be/NS8SA8iop-M&t=13s) 
 
 A playful digital board game I built for my cousin’s daughter’s confirmation (*konfirmation*). 
 I packaged it as a standalone executable using PyInstaller. The app can be run directly by navigating to the 
