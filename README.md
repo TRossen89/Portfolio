@@ -1,10 +1,10 @@
 ## Tobias Rossen – Developer Portfolio
 
-Welcome to my project portfolio. This repository provides an overview of a selected portion of the projects I’ve worked on — including personal, professional, and school-related work. Some are still in progress, while others are complete or in use.
+Welcome to my project portfolio. This repository provides an overview of a selected portion of the projects I’ve worked on — including personal, professional, and school-related work. Some are still in progress, while others are complete or in use.   
 
 Feel free to browse the publicly available projects. For any private repositories, I’m happy to grant access upon request.
 
-I recently completed an internship at Danske Spil A/S, where I worked on several real-world software solutions. While I can’t share the code from those projects due to confidentiality, I’ve included descriptions to give insight into the types of challenges I’ve tackled and the technologies I’ve used in a professional setting. I’d be happy to discuss them in more detail during a conversation or interview.
+I recently completed an internship at Danske Spil A/S, where I worked on several real-world software solutions. While I can’t share the code from those projects due to confidentiality, I’ve included descriptions of the projects in this portfolio to give insight into the types of challenges I’ve tackled and the technologies I’ve used in a professional setting. I’d be happy to discuss them in more detail during a conversation or interview.
 
 
 <br>
@@ -33,8 +33,6 @@ I implemented functionality allowing staff to update the destination of already-
 
 ---
 ---
-
-<p></p>
 
 ## Signup Flow – *Danske Spil A/S*  
 #### React, Sitecore *(with minor backend updates in C#, ASP.NET Core/EF Core)*  
@@ -84,6 +82,10 @@ pip install table
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 </td>
 <td>
@@ -120,7 +122,9 @@ be built using a React frontend and a Java or C# backend.
 
 **Note:** Install the following dependency using `pip install` to run the app: `kivy`
 
-
+```bash
+pip install kivy
+```
 
   **STATUS:** Not finished. Development discontinued. 
 
