@@ -74,18 +74,6 @@ pip install table
 
   **STATUS:** Finished.
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 </td>
 <td>
