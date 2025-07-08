@@ -156,6 +156,6 @@ generated dist folder and launching the executable — no Python installation or
 ## Contact
 
 You’re welcome to connect with me for more details about any project.  
-Phone: 60 71 86 55
+Phone: 60 71 86 55  
 Email: acm1110@gotmail.com  
 LinkedIn: [Tobias Rossen](https://linkedin.com/in/tobias-rossen-a3620668)
