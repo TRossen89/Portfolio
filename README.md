@@ -135,6 +135,8 @@ generated dist folder and launching the executable — no Python installation or
 
   **STATUS:** Finished.
 
+<br>
+<br>
 
 </td>
 </tr>
