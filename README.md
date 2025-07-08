@@ -68,14 +68,6 @@ between GDP and happiness, social expenditure, unemployment and taxation.
 
 **Note:** Install the following dependencies using `pip install` to run the app: `streamlit pandas matplotlib seaborn table scikit-learn`
 
-```bash
-pip install streamlit
-pip install matplotlib
-pip install seaborn
-pip install scikit-learn
-pip install pandas
-pip install table
-```
 
   **STATUS:** Finished.
 
@@ -138,10 +130,11 @@ pip install kivy
 ## Board Game for a Confirmation (Konfirmation) 
 #### Python, Kivy
 
-<!-- [Video Presentation - long functionality demo](https://youtu.be/_-OWkPrC2eE) -->
+[Video Presentation - functionality demo](https://youtu.be/NS8SA8iop-M) 
 
 A playful digital board game I built for my cousin’s daughter’s confirmation (*konfirmation*). 
-I packaged it as a standalone executable using PyInstaller, making it easy to share and run without requiring Python or dependencies.
+I packaged it as a standalone executable using PyInstaller. The app can be run directly by navigating to the 
+generated dist folder and launching the executable — no Python installation or additional setup required.
 
 > This project is currently private. If you're interested in the code, feel
 > free to reach out and I’ll be happy to grant access.  
