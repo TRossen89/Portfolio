@@ -74,6 +74,10 @@ pip install scikit-learn
 pip install pandas
 pip install table
 ```
+Then, while in the app folder, run
+```bash 
+streamlit run Frontpage.py
+``` 
 
   **STATUS:** Finished.
 
