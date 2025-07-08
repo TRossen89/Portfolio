@@ -53,7 +53,7 @@ backend API to ensure proper integration, fixing small issues in newly created e
 ---
 ---
 
-## BI_Exam - *School project*  
+## BI Exam - *School project*  
 #### Python *(streamlit, pandas, scikit-learn, seaborn, matplotlib)*
 
 [View Repository](https://github.com/TRossen89/BI_Exam) 
