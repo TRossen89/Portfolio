@@ -106,7 +106,7 @@ The structure is inspired by several backend projects I built during my studies.
 
 [View Repository](https://github.com/TRossen89/the-budget-app-proto-type)
 
-[Video Presentation](https://youtu.be/kqpEPYm2BvE) (2min 28sek - [Video Presentation](https://youtu.be/kqpEPYm2BvE&t=22s))
+[Video Presentation](https://youtu.be/kqpEPYm2BvE) (02.28 - [skip intro](https://youtu.be/kqpEPYm2BvE&t=22s))
 
 A personal budgeting app I developed when I first started programming. The repository contains a main branch with 
 the original design and a development branch 
