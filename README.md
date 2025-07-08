@@ -113,9 +113,7 @@ I've decided to stop development on this version and instead start a new project
 be built using a React frontend and a Java or C# backend.  
 
 **Note:** Install the following dependency using `pip install` to run the app: `kivy`
-```bash
-pip install kivy
-```
+
 
 
   **STATUS:** Not finished. Development discontinued. 
@@ -130,7 +128,7 @@ pip install kivy
 ## Board Game for a Confirmation (Konfirmation) 
 #### Python, Kivy
 
-[Video Presentation - functionality demo](https://youtu.be/NS8SA8iop-M) 
+[Video Presentation](https://youtu.be/NS8SA8iop-M) (functionality demo) 
 
 A playful digital board game I built for my cousin’s daughter’s confirmation (*konfirmation*). 
 I packaged it as a standalone executable using PyInstaller. The app can be run directly by navigating to the 
