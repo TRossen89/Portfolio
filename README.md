@@ -34,7 +34,7 @@ I implemented functionality allowing staff to update the destination of already-
 ---
 ---
 
-<br>
+<p></p>
 
 ## Signup Flow – *Danske Spil A/S*  
 #### React, Sitecore *(with minor backend updates in C#, ASP.NET Core/EF Core)*  
