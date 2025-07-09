@@ -42,8 +42,8 @@ I implemented functionality allowing staff to update the destination of already-
 #### React, Sitecore *(with minor backend updates in C#, ASP.NET Core/EF Core)*  
  
 A frontend project for Danske Spil, where I developed the user-facing sign-up flow.  
-I also made minor updates to the backend API to ensure proper integration,  
-fixing small issues in newly created endpoints.  
+I also made minor updates to the backend API to ensure proper integration, fixing small issues in  
+newly created endpoints.  
 
 > This project is also proprietary and hosted internally at Danske Spil.  
 
