@@ -136,8 +136,9 @@ pip install kivy
 
 A playful digital board game I built for my cousin’s daughter’s confirmation (*konfirmation*).  
 I packaged it as a standalone executable using PyInstaller. The app can be run directly by navigating to the 
-generated dist folder and launching the executable — no Python installation or additional setup required.
-This was my second project. As with my first project, the code isn’t well-structured and includes excessive spacing and comments, but the functionality is relatively complex for an early-stage project.
+generated dist folder and launching the executable — no Python installation or additional setup required.  
+  
+  This was my second project. As with my first project, the code isn’t well-structured and includes excessive spacing and comments, but the functionality is relatively complex for an early-stage project.
 
 
 > This project is currently private. If you're interested in the code, feel
