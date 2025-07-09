@@ -24,10 +24,12 @@ I recently completed an internship at Danske Spil A/S, where I contributed to se
 ## Improvement to Internal Notification System – *Danske Spil A/S*  
 #### C#, ASP.NET Core, EF Core, Mithril.js
 
-A full-stack enhancement to Danske Spil’s internal messaging system used to notify users about outages and service updates. I implemented functionality allowing staff to update the destination of already-sent messages, eliminating the need to delete and recreate them 
+A full-stack enhancement to Danske Spil’s internal messaging system used to notify users about outages and service updates.  
+I implemented functionality allowing staff to update the destination of already-sent messages, eliminating the need to delete and recreate them 
 — improving operational efficiency and reducing the risk of human error.  
 
-> This project is proprietary and hosted internally at Danske Spil, so it is not available in this repository.  
+> This project is proprietary and hosted internally at Danske Spil,
+> so it is not available in this repository.  
 
   **STATUS:** Ready for QA testing.
 
@@ -59,13 +61,18 @@ backend API to ensure proper integration, fixing small issues in newly created e
 
 **Grade:** 12 (A)  
 
-Created as part of a Business Intelligence module in my AP Computer Science (Datamatiker) studies.  
-I analyzed data on GDP, social expenditure, 
-unemployment, taxation, and happiness across countries to build models predicting the GDP of countries and to visualize interesting relations 
-between GDP and happiness, social expenditure, unemployment and taxation.  
+Developed during a Business Intelligence module in my AP Computer Science (Datamatiker) program.
+I analyzed data on GDP, social expenditure, unemployment, taxation, and happiness across countries 
+to build predictive models for GDP and visualize key relationships between these variables. 
 
   **STATUS:** Finished.
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
