@@ -106,7 +106,7 @@ The structure is inspired by several backend projects I built during my studies.
 
 [Video Presentation](https://youtu.be/kqpEPYm2BvE) (02.28) - [skip intro](https://youtu.be/kqpEPYm2BvE&t=22s) (02.06)
 
-A budgeting app I built when I first started learning to program. While the code isn’t well structured and includes too many comments and spacing, it contains relatively complex functionality for an early project.  
+A budgeting app I built when I first started learning to program. While the code isn’t well structured and includes too many comments and spacing, it contains relatively complex functionality for an early project.    
 The repository contains a main branch with the original design and a development branch where I experimented with various changes.   
 Although the app is unfinished and not very user-friendly, I still actively use it to track and plan my spending over defined periods.   
 I've decided to stop development on this version and instead start a new project based on a redesigned concept I've worked on. The new version will 
