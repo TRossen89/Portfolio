@@ -63,20 +63,6 @@ I analyzed data on GDP, social expenditure,
 unemployment, taxation, and happiness across countries to build models predicting the GDP of countries and to visualize interesting relations 
 between GDP and happiness, social expenditure, unemployment and taxation.  
 
-**Note:** To run the app, install the dependencies using:
-```bash
-pip install streamlit
-pip install matplotlib
-pip install seaborn
-pip install scikit-learn
-pip install pandas
-pip install table
-```
-Then navigate to the app folder and run:
-```bash 
-streamlit run Frontpage.py
-``` 
-
   **STATUS:** Finished.
 
 <br>
