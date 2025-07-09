@@ -6,8 +6,7 @@ Feel free to browse the publicly available projects. For any private repositorie
 
 This portfolio only includes **solo projects**. If you’re interested in the **school projects I’ve collaborated on with fellow students**, I’d be happy to share links to those repositories as well.
 
-I recently completed an internship at Danske Spil A/S, where I contributed to several real-world software solutions. While I can’t share the code from these projects due to confidentiality, I’ve included **descriptions** to give insight into the types of challenges I tackled and the technologies I used in a professional setting.  
-I’d be happy to discuss these projects further during a conversation or interview.
+I recently completed an internship at Danske Spil A/S, where I contributed to several real-world software solutions. While I can’t share the code from these projects due to confidentiality, I’ve included **descriptions** to give insight into the types of challenges I tackled and the technologies I used in a professional setting. I’d be happy to discuss these projects further during a conversation or interview.
 
 
 
