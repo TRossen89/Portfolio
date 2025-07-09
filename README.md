@@ -79,6 +79,20 @@ streamlit run Frontpage.py
 
   **STATUS:** Finished.
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 </td>
 <td>
