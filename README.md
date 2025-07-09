@@ -14,9 +14,9 @@ I recently completed an internship at Danske Spil A/S, where I contributed to se
 
 <table>
   <tr>
-    <th>*  Professional Projects and School Projects  *</th>
-    <th>--</th>
-    <th>*     Personal Projects     *</th>
+    <th>Professional Projects and School Projects</th>
+    <th> <br> </th>
+    <th>Personal Projects</th>
   </tr>
   <tr>
     <td>
