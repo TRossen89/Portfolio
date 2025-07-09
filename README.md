@@ -2,7 +2,7 @@
 
 Welcome to my project portfolio. This repository provides an overview of selected projects I’ve worked on — including personal, professional, and school-related work. Some are still in progress, while others are complete or in use.
 
-Feel free to browse the publicly available projects. For any private repositories, I’m happy to grant access upon request.  
+Feel free to browse the publicly available projects. For any private repositories, I’m happy to grant access upon request.    
 This portfolio only includes **solo projects**. If you’re interested in the **school projects I’ve collaborated on with fellow students**, I’d be happy to share links to those repositories as well.
 
 I recently completed an internship at Danske Spil A/S, where I contributed to several real-world software solutions. While I can’t share the code from these projects due to confidentiality, I’ve included **descriptions** to give insight into the types of challenges I tackled and the technologies I used in a professional setting.  
@@ -40,13 +40,13 @@ I implemented functionality allowing staff to update the destination of already-
 ## Signup Flow – *Danske Spil A/S*  
 #### React, Sitecore *(with minor backend updates in C#, ASP.NET Core/EF Core)*  
  
-A frontend project for Danske Spil, where I developed the user-facing sign-up flow using React.  
+A frontend project for Danske Spil, where I developed the user-facing sign-up flow.  
 I also made minor updates to the 
 backend API to ensure proper integration, fixing small issues in newly created endpoints.  
 
 > This project is also proprietary and hosted internally at Danske Spil.  
 
-  **STATUS:** In testing. Scheduled for production deployment in fall 2025
+  **STATUS:** Ready for QA testing. Scheduled for production deployment in fall 2025
 
 <br>
 
@@ -65,7 +65,7 @@ I analyzed data on GDP, social expenditure,
 unemployment, taxation, and happiness across countries to build models predicting the GDP of countries and to visualize interesting relations 
 between GDP and happiness, social expenditure, unemployment and taxation.  
 
-**Note:** Install the following dependencies using `pip install` to run the app: `streamlit pandas matplotlib seaborn table scikit-learn`
+**Note:** To run the app, install the dependencies using:
 ```bash
 pip install streamlit
 pip install matplotlib
@@ -74,7 +74,7 @@ pip install scikit-learn
 pip install pandas
 pip install table
 ```
-Then, while in the app folder, run
+Then navigate to the app folder and run:
 ```bash 
 streamlit run Frontpage.py
 ``` 
