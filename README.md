@@ -112,12 +112,6 @@ Although the app is unfinished and not very user-friendly, I still actively use 
 I've decided to stop development on this version and instead start a new project based on a redesigned concept I've worked on. The new version will 
 be built using a React frontend and a Java or C# backend.  
 
-**Note:** To run the app, install the dependencies using:
-
-```bash
-pip install kivy
-```
-
   **STATUS:** Not finished. Development discontinued. 
 
 <br>
