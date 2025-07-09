@@ -60,9 +60,8 @@ I also made minor updates to the backend API to ensure proper integration, fixin
 
 **Grade:** 12 (A)  
 
-Developed during a Business Intelligence module in my AP Computer Science (Datamatiker) program. I analyzed data on GDP, social expenditure, unemployment,  
-taxation, and happiness across countries to build predictive models for GDP and visualize  
-key relationships between these variables. 
+Developed during a Business Intelligence module in my AP Computer Science (Datamatiker) program. I analyzed data on GDP, social expenditure, unemployment, taxation, and  
+happiness across countries to build predictive models for GDP and visualize key relationships between these variables. 
 
   **STATUS:** Finished.
 
