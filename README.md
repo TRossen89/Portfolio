@@ -63,8 +63,7 @@ fixing small issues in newly created endpoints.
 
 **Grade:** 12 (A)  
 
-Developed during a Business Intelligence module in my AP Computer Science  
-(Datamatiker) program. I analyzed data on GDP, social expenditure, unemployment,  
+Developed during a Business Intelligence module in my AP Computer Science (Datamatiker) program. I analyzed data on GDP, social expenditure, unemployment,  
 taxation, and happiness across countries to build predictive models for GDP and visualize  
 key relationships between these variables. 
 
