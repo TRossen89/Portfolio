@@ -24,8 +24,10 @@ I recently completed an internship at Danske Spil A/S, where I contributed to se
 ## Improvement to Internal Notification System – *Danske Spil A/S*  
 #### C#, ASP.NET Core, EF Core, Mithril.js
 
-A full-stack enhancement to Danske Spil’s internal messaging system used to notify users about outages and service updates.  
-I implemented functionality allowing staff to update the destination of already-sent messages, eliminating the need to delete and recreate them 
+A full-stack enhancement to Danske Spil’s internal messaging system used to notify users about  
+outages and service updates.  
+I implemented functionality allowing staff to update the destination of already-sent messages,  
+eliminating the need to delete and recreate them 
 — improving operational efficiency and reducing the risk of human error.  
 
 > This project is proprietary and hosted internally at Danske Spil,
