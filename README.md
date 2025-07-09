@@ -149,7 +149,8 @@ I packaged it as a standalone executable using PyInstaller. The app can be run d
 
 ## Contact
 
-You’re welcome to connect with me for more details about any project.    
+You’re welcome to connect with me for more details about any project.  
+  
 Phone: 60 71 86 55  
 Email: acm1110@gotmail.com  
 LinkedIn: [Tobias Rossen](https://linkedin.com/in/tobias-rossen-a3620668)
