@@ -1,12 +1,10 @@
 ## Tobias Rossen – Developer Portfolio
 
-Welcome to my project portfolio. This repository provides an overview of selected projects I’ve worked on — including personal, professional, and school-related work. Some are still in progress, while others are complete or in use.
-
-Feel free to browse the publicly available projects. For any private repositories, I’m happy to grant access upon request.  
+Welcome to my project portfolio. This repository provides an overview of selected projects I’ve worked on — including personal, professional, and school-related work. Some are still in progress, while others are complete or in use. For any private repositories, I’m happy to grant access upon request.  
 
 This portfolio only includes **solo projects**. If you’re interested in the **school projects I’ve collaborated on with fellow students**, I’d be happy to share links to those repositories as well.
 
-I recently completed an internship at Danske Spil A/S, where I contributed to several real-world software solutions. While I can’t share the code from these projects due to confidentiality, I’ve included **descriptions** to give insight into the types of challenges I tackled and the technologies I used in a professional setting. I’d be happy to discuss these projects further during a conversation or interview.
+I recently completed an internship at Danske Spil A/S, where I worked on two projects: a frontend project and a full-stack project for my final paper. While I can’t share the code from these projects due to confidentiality, I’ve included **descriptions** to provide insight into the types of challenges I tackled and the technologies I used in a professional setting. I’d be happy to discuss these projects further in a conversation or interview.
 
 
 
@@ -108,7 +106,7 @@ The structure is inspired by several backend projects I built during my studies.
 
 A budgeting app I built when I first started learning to program. While the code isn’t well structured and includes too many comments and spacing, it contains relatively complex functionality for an early project.    
 The repository contains a main branch with the original design and a development branch where I experimented with various changes.   
-Although the app is unfinished and not very user-friendly, I still actively use it to track and plan my spending over defined periods.  
+Although the app is unfinished, has almost no styling and is not very user-friendly, I still actively use it to track and plan my spending over defined periods.  
   
   I've decided to stop development on this version and instead start a new project based on a redesigned concept I've worked on. The new version will 
 be built using a React/React Native frontend and a Java or C# backend.  
