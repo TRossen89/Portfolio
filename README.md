@@ -110,15 +110,16 @@ I packaged it as a standalone executable using PyInstaller. The app can be run d
 
 [View Repository](https://github.com/TRossen89/the-budget-app-proto-type)
 
-[Video Presentation](https://youtu.be/kqpEPYm2BvE) (02.28) - [skip intro](https://youtu.be/kqpEPYm2BvE&t=22s) (02.06)
+<!-- [Video Presentation](https://youtu.be/kqpEPYm2BvE) (02.28) - [skip intro](https://youtu.be/kqpEPYm2BvE&t=22s) (02.06) -->
 
 A budgeting app I built when I first started learning to program. 
 The repository contains a main branch with the original design and a development branch where I experimented with various changes.   
 Although the app is unfinished, has almost no styling and is not very user-friendly, I still actively use the development branch to track and plan my spending over defined periods.  
   
-> I've decided to stop development on this version and instead start a new project
-> based on a redesigned concept I've worked on. The new version will
-> be built using a React (for web) and React Native (for app) frontend and a Java backend.  
+> I've decided to stop development on this version and instead start a new
+> project based on a redesigned concept I've worked on. The new version
+> will be built using a React (for web) and React Native (for app) frontend
+> and a Java backend.  
 
   **STATUS:** Not finished. Development discontinued. 
 
