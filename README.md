@@ -116,6 +116,8 @@ A budgeting app I built when I first started learning to program.
 The repository contains a main branch with the original design and a development branch where I experimented with various changes.   
 Although the app is unfinished, has almost no styling and is not very user-friendly, I still actively use the development branch to track and plan my spending over defined periods.  
   
+> This was my first personal project, developed before I received any formal education. As such, the code lacks structure and contains excessive spacing and comments.
+>
 > I've decided to stop development on this version and instead start a new
 > project based on a redesigned concept I've worked on. The new version
 > will be built using React for a web frontend, React Native for an app frontend
