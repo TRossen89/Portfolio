@@ -83,14 +83,21 @@ The project also includes a locally runnable Streamlit app that presents the fin
 </td>
 <td>
 
-## Backend API for Project Showcase
-#### Java, JPA  
-[View Repository](https://github.com/TRossen89/tobias-rossen-backend)
+## Board Game for a Confirmation (Konfirmation) 
+#### Python, Kivy
 
-A RESTful backend service designed to support a personal homepage that showcases my work. The API provides endpoints for project information, tags, video presentations, and more.  
-The structure is inspired by several backend projects I built during my studies.
+[Video Presentation](https://youtu.be/NS8SA8iop-M) (01.51) - [skip intro](https://youtu.be/NS8SA8iop-M&t=13s) (01.38) 
 
-  **STATUS:** In development.  
+A playful digital board game I built for my cousin’s daughter’s confirmation (*konfirmation*).  
+I packaged it as a standalone executable using PyInstaller. The app can be run directly by navigating to the generated `dist` folder and launching the executable — no Python installation or additional setup required.  
+  
+  This was my second project. As with my first project, the code isn’t well-structured and includes excessive spacing and comments, but the functionality is relatively complex for an early-stage project.
+
+
+> This project is currently private. If you're interested in the code, feel
+> free to reach out and I’ll be happy to grant access.  
+
+  **STATUS:** Finished.
 
 <br>
 
@@ -118,21 +125,14 @@ be built using a React/React Native frontend and a Java or C# backend.
 ---
 ---
 
-## Board Game for a Confirmation (Konfirmation) 
-#### Python, Kivy
+## Backend API for Project Showcase
+#### Java, JPA  
+[View Repository](https://github.com/TRossen89/tobias-rossen-backend)
 
-[Video Presentation](https://youtu.be/NS8SA8iop-M) (01.51) - [skip intro](https://youtu.be/NS8SA8iop-M&t=13s) (01.38) 
+A RESTful backend service designed to support a personal homepage that showcases my work. The API provides endpoints for project information, tags, video presentations, and more.  
+The structure is inspired by several backend projects I built during my studies.
 
-A playful digital board game I built for my cousin’s daughter’s confirmation (*konfirmation*).  
-I packaged it as a standalone executable using PyInstaller. The app can be run directly by navigating to the generated `dist` folder and launching the executable — no Python installation or additional setup required.  
-  
-  This was my second project. As with my first project, the code isn’t well-structured and includes excessive spacing and comments, but the functionality is relatively complex for an early-stage project.
-
-
-> This project is currently private. If you're interested in the code, feel
-> free to reach out and I’ll be happy to grant access.  
-
-  **STATUS:** Finished.
+  **STATUS:** In development.  
 
 <br>
 <br>
