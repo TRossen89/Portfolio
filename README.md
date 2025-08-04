@@ -113,7 +113,8 @@ I packaged it as a standalone executable using PyInstaller. The app can be run d
 <!-- [Video Presentation](https://youtu.be/kqpEPYm2BvE) (02.28) - [skip intro](https://youtu.be/kqpEPYm2BvE&t=22s) (02.06) -->
 
 A budgeting app I built when I first started learning to program. 
-The repository contains a main branch with the original design and a development branch where I experimented with various changes.   
+The repository contains a main branch with the original design and a development branch where I experimented with various changes.  
+
 Although the app is unfinished, has almost no styling and is not very user-friendly, I still actively use the development branch to track and plan my spending over defined periods.  
   
 > This was my first personal project, developed before I received any formal education. As such, the code lacks structure and contains excessive spacing and comments.
