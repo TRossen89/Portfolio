@@ -95,10 +95,11 @@ I packaged it as a standalone executable using PyInstaller. The app can be run d
 > This project is currently private. If you're interested in the code, feel
 > free to reach out and I’ll be happy to grant access.
 >
-> This was my second personal project and it was developed before I had any education. The code is therefore not that well-structured and it includes excessive spacing and comments.  
+> This was my second personal project, developed before I received any formal education. As such, the code lacks structure and contains excessive spacing and comments.
 
   **STATUS:** Finished.
 
+<br>
 <br>
 
 ---
@@ -111,12 +112,13 @@ I packaged it as a standalone executable using PyInstaller. The app can be run d
 
 [Video Presentation](https://youtu.be/kqpEPYm2BvE) (02.28) - [skip intro](https://youtu.be/kqpEPYm2BvE&t=22s) (02.06)
 
-A budgeting app I built when I first started learning to program. While the code isn’t well structured and includes too many comments and spacing, it contains relatively complex functionality for an early project.    
+A budgeting app I built when I first started learning to program. 
 The repository contains a main branch with the original design and a development branch where I experimented with various changes.   
-Although the app is unfinished, has almost no styling and is not very user-friendly, I still actively use it to track and plan my spending over defined periods.  
+Although the app is unfinished, has almost no styling and is not very user-friendly, I still actively use the development branch to track and plan my spending over defined periods.  
   
-  I've decided to stop development on this version and instead start a new project based on a redesigned concept I've worked on. The new version will 
-be built using a React/React Native frontend and a Java or C# backend.  
+> I've decided to stop development on this version and instead start a new project
+> based on a redesigned concept I've worked on. The new version will
+> be built using a React (for web) and React Native (for app) frontend and a Java backend.  
 
   **STATUS:** Not finished. Development discontinued. 
 
@@ -129,7 +131,7 @@ be built using a React/React Native frontend and a Java or C# backend.
 #### Java, JPA  
 [View Repository](https://github.com/TRossen89/tobias-rossen-backend)
 
-A RESTful backend service designed to support a personal homepage that showcases my work. The API provides endpoints for project information, tags, video presentations, and more.  
+A RESTful backend service designed to support a personal homepage that showcases my work. The API will provide endpoints for project information, tags, video presentations, and more.  
 The structure is inspired by several backend projects I built during my studies.
 
   **STATUS:** In development.  
