@@ -118,8 +118,8 @@ Although the app is unfinished, has almost no styling and is not very user-frien
   
 > I've decided to stop development on this version and instead start a new
 > project based on a redesigned concept I've worked on. The new version
-> will be built using a React (for web) and React Native (for app) frontend
-> and a Java backend.  
+> will be built using React for a web frontend, React Native for an app frontend
+> and Java for the backend.  
 
   **STATUS:** Not finished. Development discontinued. 
 
